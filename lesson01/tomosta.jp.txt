@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ともすた</title>
+	<atom:link href="https://tomosta.jp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tomosta.jp</link>
+	<description>プログラミング学習コミュニティ</description>
+	<lastBuildDate>Thu, 09 Feb 2023 01:27:44 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://tomosta.jp/wp-content/uploads/2021/12/manabee_512-150x150.png</url>
+	<title>ともすた</title>
+	<link>https://tomosta.jp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">158407978</site>	<item>
+		<title>インボイス制度スタートで、フリーランスがやるべき事</title>
+		<link>https://tomosta.jp/2023/02/invoice-start/</link>
+					<comments>https://tomosta.jp/2023/02/invoice-start/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2023 01:24:14 +0000</pubDate>
+				<category><![CDATA[プログラミング]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22733</guid>
+
+					<description><![CDATA[いよいよ、2023年10月から本格的に導入される「インボイス制度」。フリーランスの方には影響が大きいと言われていますが、一体どんな影響があるのでしょう？　そして、どんな判断や手続きが必要なのでしょう？　ここでは、インボイス制度について改めて詳しく紹介していきましょう。]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-rich is-provider-埋め込みハンドラー wp-block-embed-埋め込みハンドラー wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe title="インボイス制度ってなに？　フリーランサーがやるべきこと" width="1220" height="686" src="https://www.youtube.com/embed/axH1gukSBQ4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>いよいよ、2023年10月から本格的に導入される「インボイス制度」。フリーランスの方には影響が大きいと言われていますが、一体どんな影響があるのでしょう？　そして、どんな判断や手続きが必要なのでしょう？　ここでは、インボイス制度について改めて詳しく紹介していきましょう。</p>
+
+
+
+<h2>消費税の軽減税率が原因</h2>
+
+
+
+<p>「インボイス制度」とは、消費税に関する税制改正に伴って導入される制度です。2023年現在、消費税は10%とされていますが、一部の生活必需品やテイクアウトなどは特別に8%になっています。これを「軽減税率」と言います。</p>
+
+
+
+<p>特に飲食店やスーパーなどの場合、このように2種類の消費税が適用されるため、これを正しく分類して申告しなければなりません。そこで、請求書や領収書に、次のような各項目を必ず明記し、正しく申告ができるようにしましょうというのが、今回の税制改正になります。</p>
+
+
+
+<ul>
+<li>氏名</li>
+
+
+
+<li>年月日</li>
+
+
+
+<li>取引内容</li>
+
+
+
+<li>税率ごとの税込対価</li>
+
+
+
+<li>受領者の氏名</li>
+
+
+
+<li>適格請求書発行事業者の登録番号</li>
+
+
+
+<li>税率ごとの税率、消費税額</li>
+</ul>
+
+
+
+<p>このような各項目が正しく記載された請求書を「適格請求書」といい、これのことを「インボイス」と呼ぶのです。ここでポイントになるのが「適格請求書発行事業者の登録番号」というものですが、これについては後述します。</p>
+
+
+
+<h2>影響があるのは免税事業者で、消費税を乗せている人</h2>
+
+
+
+<p>さてここで、今すでに消費税を納税している「課税事業者」であれば、インボイス制度の影響はそれほど大きくありません。この後紹介する「適格事業者」の登録を行うことと、請求書の書式を上記インボイスに合わせて変更するだけです。特に納税額などにも影響はありません。</p>
+
+
+
+<p>影響があるのは、現在「免税事業者」となっている個人事業主や法人です。免税事業者とは、「基準期間の課税売上高が1,000万以下の業者」と定められています。ざっくり言えば、「2年前までの1年間の売上が1,000万円以下」の場合、消費税の納税が免除されます。（ただし、自ら手続きをすれば課税事業者になる事もできます）</p>
+
+
+
+<p>免税事業者の場合、消費税の納税義務はないため、相手先に請求するときも消費税は乗せなくても問題はありません。とはいえ、乗せても問題はありません。消費税を乗せている場合、その受け取った消費税は納税する必要がないため、収入として受け取ることができます。</p>
+
+
+
+<p>ただ、今回のインボイス制度で最も影響が大きいのが、この「免税事業者で消費税を受け取っている個人事業主や法人」になります。ここで、先ほどの「適格請求書発行事業者」というキーワードが出てきます。</p>
+
+
+
+<h2>適格請求書発行事業者は課税事業者のみ</h2>
+
+
+
+<p>先ほどの通り、インボイスには「適格請求書発行事業者の登録番号」という番号を明記する必要があります。これは、税務署で手続きをすることで発行されるので、それを請求書などに明記するのですが、ここでポイントなのが、この番号は「課税業者」にしか発行ができません。</p>
+
+
+
+<p>つまり、今免税事業者であっても、あえて課税事業者として登録をしなければ番号を受け取れず、インボイスが発行できないのです。</p>
+
+
+
+<p>「それならば、免税事業者のままが良いのでインボイスは発行しない」という選択をする事もできますが、その場合に今度は「消費税を乗せるかどうか」がポイントになってきます。</p>
+
+
+
+<h2>消費税は間接税</h2>
+
+
+
+<p>ちょっとここで、話を消費税の基本に戻しましょう。消費税というのは「間接税」という種類の税金で、所得税や法人税などの「直接税」とは少し違った性格を持っています。</p>
+
+
+
+<p>それは、「預かった消費税を全額納税する訳ではない」という部分。例えば、Aという会社が、1,100万円の請求書を出したとしましょう。この時、消費税は100万を預かっています。</p>
+
+
+
+<p>しかし、Bという外注さんに330万円で作業を依頼したとすると、30万円の消費税をBに支払っています。すると、預かっている100万円の消費税から、この支払った30万の消費税は納税する必要がなくなり、70万円だけを納税すれば良い事になります。これが間接税です。</p>
+
+
+
+<p>しかし、2023年10月以降、これが認められるのが「適格事業者の発行した請求書類」のみが認められることになります。</p>
+
+
+
+<p>つまり例えば先ほどの例で、330万円の請求を出してきた事業者が適格事業者ではない場合、支払った30万円の消費税は免除されることなく、100万円を納税しなければならないという事で、依頼側が30万円分損をする事になってしまいます。</p>
+
+
+
+<h2>適格事業者以外との取引を停止する可能性</h2>
+
+
+
+<p>そこで依頼側は、「適格事業者とのみ取引をします」という取り決めをする可能性があります。そうなると、適格事業者の登録をしない場合に取引を停止されてしまう可能性があります。これこそが、インボイス制度で最も大きな影響といえます。</p>
+
+
+
+<h2>免税事業者はどうしたらいいの？</h2>
+
+
+
+<p>では、今免税事業者となっている個人事業主や法人は、どんな選択肢があるのでしょう？　また、その場合のデメリットはどんなものがあるでしょう？　それぞれ紹介しましょう。</p>
+
+
+
+<h3>課税業者になり、適格事業者の登録をする</h3>
+
+
+
+<p>最もシンプルなのは、課税業者として適格事業者の登録をするというものです。ただしこの場合、消費税の納税義務が発生してしまいますので、これまで発生していなかった税金が発生することや、確定申告や決算の手続きが煩雑になり、税理士に依頼をしたり、会計ソフトをなどを導入する負担やコストが発生するというデメリットがあります。</p>
+
+
+
+<h3>免税事業者のままで、消費税を乗せない</h3>
+
+
+
+<p>もう1つが、免税事業者のままで「インボイス」を発行しないという方法です。これまでも消費税を乗せていなかった場合は影響がありませんが、消費税を乗せていた場合は、今後は乗せることができなくなるため、単純に10%の収入のマイナスとなります。</p>
+
+
+
+<p>また、その後収入が1,000万円を超えるようになると、自動的に課税業者となるため、インボイスを発行する必要が出てきます。</p>
+
+
+
+<h3>免税事業者のままで、消費税も乗せる</h3>
+
+
+
+<p>現状のまま、適格事業者の登録もせず、消費税分も乗せたいという場合は、現在の取引先との調整がかなり必要になります。クライアントにとっては、単純な10%値上げと同じ意味になるため、それでも取引を続けてくれる取引先と、今後も仕事をしていくことになります。</p>
+
+
+
+<p>また、新規のクライアントについても、都度消費税の有無についての確認がある可能性があるため、事情を説明する必要があり、これが一番茨の道といえるでしょう。</p>
+
+
+
+<h2>まとめ</h2>
+
+
+
+<p>という事で、インボイス制度いかがだったでしょう。もし今、免税事業者で、かつ消費税を乗せている場合、いずれにしても収入源につながるかまたは調整が必要となるため、影響は小さくありません。</p>
+
+
+
+<p>とはいえ、むしろこれまでの消費税を納税しなくて良かった期間がボーナス期間だったと気持ちを切り替えて、より多くの仕事を引き受けられるように判断していくとよいでしょう。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2023/02/invoice-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22733</post-id>	</item>
+		<item>
+		<title>SvelteKitの基本を Svelte Tutorialで学ぼう</title>
+		<link>https://tomosta.jp/2022/12/sveltekit/</link>
+					<comments>https://tomosta.jp/2022/12/sveltekit/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 08:01:19 +0000</pubDate>
+				<category><![CDATA[入門記事]]></category>
+		<category><![CDATA[Svelte]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22635</guid>
+
+					<description><![CDATA[JavaScriptのフレームワーク、SvelteKitの使い方を、Svelte公式のチュートリアルを利用しながら一緒に学んで行きましょう]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="SvelteKitのルーティング機能で複数のページを作成しよう" width="1220" height="686" src="https://www.youtube.com/embed/5oCxqqfsPxY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>2022年12月15日に、<a href="https://svelte.jp/blog/announcing-sveltekit-1.0" target="_blank" rel="noreferrer noopener">SvelteKitが正式リリースされました</a>。SvelteKitは、ReactのNext.jsやVue.jsのNuxt等と同様に、SvelteというJavaScriptライブラリを利用したフレームワークです。</p>
+
+
+
+<p>複数のページで構成されるWebサイトを制作したり、データベースと連携したアプリを開発したりでき、Next.jsやNuxtに比べるとシンプルで作りやすい印象があります。</p>
+
+
+
+<p>ここでは、Svelteを学習できる「Svelte Tutorial」のSvelteKitのセクションを進めながら、説明が英語なので日本語で補足をしていきましょう。</p>
+
+
+
+<h2>Svelteチュートリアルを起動しよう</h2>
+
+
+
+<p>Svelteチュートリアルは、Svelteのドキュメントからアクセスできます。</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card wp-block-embed-wp-oembed-blog-card"><div class="wp-block-embed__wrapper">
+<div class="wp-oembed-blog-card" data-cached-time="18/12/22 08:02:34"><a href="https://learn.svelte.dev/tutorial/welcome-to-svelte" target="_blank"><div class="wp-oembed-blog-card__figure"><img decoding="async" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt=""></div><div class="wp-oembed-blog-card__body"><div class="wp-oembed-blog-card__title">Welcome to Svelte • Svelte Tutorial</div><div class="wp-oembed-blog-card__description"></div><div class="wp-oembed-blog-card__domain"><img decoding="async" class="wp-oembed-blog-card__favicon" src="https://learn.svelte.dev/../favicon.png" alt="">learn.svelte.dev</div></div></a></div>
+</div></figure>
+
+
+
+<p>最初はSvelte自身のチュートリアルが展開されるので、SvelteKitのチュートリアルは次のページから始まります。</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card wp-block-embed-wp-oembed-blog-card"><div class="wp-block-embed__wrapper">
+<div class="wp-oembed-blog-card" data-cached-time="18/12/22 08:02:34"><a href="https://learn.svelte.dev/tutorial/introducing-sveltekit" target="_blank"><div class="wp-oembed-blog-card__figure"><img decoding="async" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt=""></div><div class="wp-oembed-blog-card__body"><div class="wp-oembed-blog-card__title">What is SvelteKit? • Svelte Tutorial</div><div class="wp-oembed-blog-card__description"></div><div class="wp-oembed-blog-card__domain"><img decoding="async" class="wp-oembed-blog-card__favicon" src="https://learn.svelte.dev/../favicon.png" alt="">learn.svelte.dev</div></div></a></div>
+</div></figure>
+
+
+
+<p>すると、左側に説明が、右側にエディター（上部）とブラウザー（下部）に展開されます。上部のエディターのファイルを変更すると、すぐに下のWebブラウザで確認できます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-1024x576.png" alt="" class="wp-image-22641" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>例えば今、<code>&lt;h1&gt;</code>要素があるので内容を書き換えると、リアルタイムに書き換わることが確認できます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-1-1024x576.png" alt="" class="wp-image-22642" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-1-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-1-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-1-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-1-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>Svelteを体験しよう</h2>
+
+
+
+<p>SvelteKitを利用して生成されたページには、Svelteを利用する事ができます。Svelteでは、<code>{ ... }</code>という記述を埋め込むと、変数の内容を等をリアルタイムに反映できます。まずは、次のように変数を宣言しましょう。Svelteでは、ファイルの上部に<code>&lt;script&gt;</code>タグを埋め込めます。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script&gt;
+    let name = 'ともすた'
+&lt;/script&gt;
+
+&lt;h1&gt;Welcome to tomosta&lt;/h1&gt;
+...</code></pre>
+
+
+
+<p>そしたら、本文内に次のように埋め込んでみましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+&lt;h1&gt;Welcome to { name }&lt;/h1&gt;</code></pre>
+
+
+
+<p>変数の内容を変更すれば、リアルタイムに書き換わります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-2-1024x576.png" alt="" class="wp-image-22644" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-2-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-2-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-2-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-2-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>ファイルの構成を確認しよう</h2>
+
+
+
+<p>SvelteKitはインストールすると、次のようなフォルダーやファイルが自動で生成されます。</p>
+
+
+
+<ul>
+<li>src/app.html<br>このファイルが実際にWebブラウザに表示されます<code>&lt;head&gt;</code>要素を変えたい場合などはこのファイルを変更します</li>
+
+
+
+<li>src/routes<br>各ページのファイルが格納されます</li>
+
+
+
+<li>static<br>画像ファイルなどのリソースファイルなどを格納します</li>
+
+
+
+<li>svelte.config.js<br>SvelteKitの設定ファイルです</li>
+</ul>
+
+
+
+<p>この他、Node.jsの設定を行う「package.json」と、Viteというビルドツールの設定ファイルである「vite.config.js」が設置されていますが、これらについてはここでは省略します。「Node.js」や「Vite」などを学習しましょう。</p>
+
+
+
+<h2>ページを増やそう</h2>
+
+
+
+<p>左側の画面下にある、次ページへのリンクを何度かクリックして「<a href="https://learn.svelte.dev/tutorial/pages" target="_blank" rel="noreferrer noopener">Pages</a>」というページまで移動しましょう。図のように、「home」と「about」というナビゲーションがあるページが表示されます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-3-1024x576.png" alt="" class="wp-image-22645" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-3-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-3-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-3-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-3-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>しかし、現状では「about」をクリックしてもページが見つかりません。そこで、このアドレスにページを追加しましょう。</p>
+
+
+
+<p>SvelteKitは、<code>src/routes</code>フォルダーの中に特定の名前でフォルダーやファイルを作成すると、自動的にアドレスが生成されるしくみです。例えば、<code>/about</code>というアドレスを作りたい場合は、<code>/src/</code>フォルダーの中に<code>about</code>という名前のフォルダーを作成します。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-4-1024x576.png" alt="" class="wp-image-22647" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-4-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-4-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-4-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-4-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-4.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>そしたら、このフォルダーの中に<code>+page.svelte</code>という名前のファイルを作成しましょう。ファイル名の先頭が「+」になっていたり、拡張子が<code>.svelte</code>となっていますが、このファイル名で固定になっています。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-5-1024x576.png" alt="" class="wp-image-22648" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-5-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-5-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-5-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-5-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-5.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これでファイルを作れば、すぐにアクセスができるようになります。後はこのファイルに内容を作っていけば、ページを増やすことができます。</p>
+
+
+
+<h2>レイアウトファイルを使おう</h2>
+
+
+
+<p><a href="https://learn.svelte.dev/tutorial/layouts" target="_blank" rel="noreferrer noopener">次ページ</a>にアクセスしましょう。</p>
+
+
+
+<p>サイト内で使う共通のパーツなどの場合は、個別に作成するよりは共通パーツにした方が良いでしょう。このような時は、レイアウトファイルを利用できます。</p>
+
+
+
+<p><code>src/routes</code>フォルダーに<code>+layout.svelte</code>ファイルを作成しましょう。すると、<code>/</code>や<code>/about</code>が真っ白のページに変わりますが、すでにレイアウトファイルが採用されるようになっています。</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-wp-oembed-blog-card wp-block-embed-wp-oembed-blog-card"><div class="wp-block-embed__wrapper">
+<div class="wp-oembed-blog-card" data-cached-time="18/12/22 08:02:34"><a href="https://learn.svelte.dev/tutorial/layouts" target="_blank"><div class="wp-oembed-blog-card__figure"><img decoding="async" src="https://svelte.dev/images/twitter-thumbnail.jpg" alt=""></div><div class="wp-oembed-blog-card__body"><div class="wp-oembed-blog-card__title">Layouts • Svelte Tutorial</div><div class="wp-oembed-blog-card__description"></div><div class="wp-oembed-blog-card__domain"><img decoding="async" class="wp-oembed-blog-card__favicon" src="https://learn.svelte.dev/../favicon.png" alt="">learn.svelte.dev</div></div></a></div>
+</div></figure>
+
+
+
+<p>各ページの内容を反映するには<code>&lt;slot /&gt;</code>という特別なタグを使います。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;slot /&gt;</code></pre>
+
+
+
+<p>このタグの前後には、共通のパーツを追加することができます。例えばここでは、<code>src/routes/+page.svelte</code>ファイルに書かれているナビゲーションを設置してみましょう。<code>&lt;nav&gt;</code>要素全体を切り取って、<code>+layout.svelte</code>に貼り付けておきましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;nav&gt;
+&lt;a href="/"&gt;home&lt;/a&gt;
+&lt;a href="/about"&gt;about&lt;/a&gt;
+&lt;/nav&gt;
+
+&lt;slot /&gt;</code></pre>
+
+
+
+<h2>パラメータを指定できるようにしよう</h2>
+
+
+
+<p><a href="https://learn.svelte.dev/tutorial/params" target="_blank" rel="noreferrer noopener">次ページ</a>にアクセスしましょう。</p>
+
+
+
+<p>こうして、ページを増やしていく事はできますが、例えばブログのしくみを作ろうとした場合、各記事の内容はページとしては存在せずに、別のヘッドレスCMSやデータベースからデータを取得する事がほとんどです。</p>
+
+
+
+<p>そのため、<code>/blog/one</code>とか<code>/blog/two</code>など、さまざまなアドレスを指定したときにも対応できるようにしましょう。これには、パラメータを受け取れるようにします。<code>/src/routes/blog</code>フォルダーに、<code>[slug]</code>というフォルダーを作成しましょう。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-6-1024x576.png" alt="" class="wp-image-22652" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-6-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-6-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-6-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-6-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-6.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>このフォルダーの中に、これまでと同様に<code>+page.svelte</code>ファイルを作成してページ内容を作成しましょう。これで、<code>/blog/one</code>などのアドレスが指定されたときに、このファイルが表示されるようになります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-7-1024x576.png" alt="" class="wp-image-22653" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-7-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-7-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-7-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-7-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-7.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>JSONファイルと連携しよう</h2>
+
+
+
+<p><a href="https://learn.svelte.dev/tutorial/page-data" target="_blank" rel="noreferrer noopener">次ページ</a>にアクセスしましょう。</p>
+
+
+
+<p>では、ブログの記事を外部のデータから取得しましょう。ここでは、JSONデータから取得します。ブログ記事は<code>src/routes/blog/data.js</code>ファイルに準備されています。これを読み込んで、一覧画面を作成してみましょう。</p>
+
+
+
+<p>まずは、これを読み込むためのプログラムを作成します。これには<code>/src/routes/blog/+page.server.js</code>というファイル名で作成しましょう。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-8-1024x576.png" alt="" class="wp-image-22655" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-8-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-8-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-8-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-8-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-8.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>次のように書き込みます。</p>
+
+
+
+<pre class="wp-block-code"><code>import { posts } from './data.js';
+
+export function load() {
+    return {
+        summaries: posts.map((post) =&gt; ({
+            slug: post.slug,
+            title: post.title
+        }))
+    };
+}</code></pre>
+
+
+
+<p>すると、同じ場所にある<code>+page.svelte</code>ファイルから<code>data</code>として受け取ることができるようになります。<code>/src/routes/blog/+page.svelte</code>ファイルを次のように変更しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script&gt;
+    export let data;
+&lt;/script&gt;
+
+&lt;h1&gt;blog&lt;/h1&gt;
+
+&lt;ul&gt;
+    {#each data.summaries as { slug, title }}
+        &lt;li&gt;&lt;a href="/blog/{slug}"&gt;{title}&lt;/a&gt;&lt;/li&gt;
+    {/each}
+&lt;/ul&gt;</code></pre>
+
+
+
+<p>各個別のページも同じように作成します。<code>/src/routes/blog/[slug]</code>フォルダーに<code>+page.server.js</code>ファイルを作成します。</p>
+
+
+
+<pre class="wp-block-code"><code>import { posts } from '../data.js';
+
+export function load({ params }) {
+    const post = posts.find((post) =&gt; post.slug === params.slug);
+
+    return {
+        post
+    };
+}</code></pre>
+
+
+
+<p>ここでは<code>find</code>メソッドを使って、URLで指定されているパラメーター（slug）と一致するデータだけを取得しています。</p>
+
+
+
+<p>後は、<code>/src/routes/blog/[slug]/+page.svelte</code>は次のようになります。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script&gt;
+    export let data;
+&lt;/script&gt;
+
+&lt;h1&gt;blog post&lt;/h1&gt;
+&lt;h1&gt;{data.post.title}&lt;/h1&gt;
+&lt;div&gt;{@html data.post.content}&lt;/div&gt;</code></pre>
+
+
+
+<p>本文を表示している<code>{@html ...}</code>というのは、データの中にHTMLのタグがあった場合に、そのまま内容を表示するというプレースホルダーです。これを使う場合、データ内の安全性がSvelteでは保障されなくなるため、注意をして利用しましょう。必要に応じて、手作業でエスケープ処理などをする必要があります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-9-1024x576.png" alt="" class="wp-image-22657" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-9-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-9-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-9-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-9-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-9.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>不正なパラメーターが指定されたときにページが見つからない処理をしよう</h2>
+
+
+
+<p>現状、アドレスを書き換えて不正な内容などに変更すると、JSONのデータが取得できないため「Internal Error」が発生してしまいます。しかし、実際にはページの削除などもあるため、一般的なページが見つからない場合のエラー処理をしていきましょう。これには<code>/src/routes/blog/[slug]/+page.server.js</code>に次のように記述して、404エラーコードを返却します。</p>
+
+
+
+<pre class="wp-block-code"><code>export function load({ params }) {
+    const post = posts.find((post) =&gt; post.slug === params.slug);
+
+    if (!post) throw error(404); // 追加
+
+    return {
+        post
+    };
+}</code></pre>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-10-1024x576.png" alt="" class="wp-image-22659" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-10-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-10-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-10-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-10-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-10.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>共通して利用するデータをロードしよう</h2>
+
+
+
+<p>各ページで利用したいデータは、先の通り<code>+page.server.js</code>というファイルを準備しますが、もし一覧でも個別のページでも共通して利用したいデータがある場合は、<code>+layout.server.js</code>というファイルが利用できます。</p>
+
+
+
+<p>まずは、<code>/src/routes/blog/+page.server.js</code>を<code>/src/routes/blog/+layout.server.js</code>に名前を変えましょう。これで、他のファイルからも参照ができるようになります。</p>
+
+
+
+<p>そしたら、<code>/src/routes/blog/[slug]/+layout.svelte</code>に次のように追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script&gt;
+    export let data;
+&lt;/script&gt;
+
+&lt;div class="layout"&gt;
+    &lt;main&gt;
+        &lt;slot /&gt;
+    &lt;/main&gt;
+
+    &lt;aside&gt;
+        &lt;h2&gt;More posts&lt;/h2&gt;
+        &lt;ul&gt;
+            {#each data.summaries as { slug, title }}
+                &lt;li&gt;
+                    &lt;a href="/blog/{slug}"&gt;{title}&lt;/a&gt;
+                &lt;/li&gt;
+            {/each}
+        &lt;/ul&gt;
+    &lt;/aside&gt;
+&lt;/div&gt;</code></pre>
+
+
+
+<p>これで、各ページに最新のエントリーが表示されるようになります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-11-1024x576.png" alt="" class="wp-image-22660" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-11-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-11-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-11-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-11-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-11.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>スタイルシートを調整しよう</h2>
+
+
+
+<p>Svelteでは、スタイルシートも<code>.svelte</code>ファイルに書き込み事ができます。一番下に追加しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+&lt;style&gt;
+    @media (min-width: 640px) {
+        .layout {
+            display: grid;
+            gap: 2em;
+            grid-template-columns: 1fr 16em;
+        }
+    }
+&lt;/style&gt;</code></pre>
+
+
+
+<p>これで、サイドエリアに移動しました。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/12/image-12-1024x576.png" alt="" class="wp-image-22661" srcset="https://tomosta.jp/wp-content/uploads/2022/12/image-12-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/12/image-12-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/12/image-12-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/12/image-12-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/12/image-12.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>＜以下、執筆中＞</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/12/sveltekit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22635</post-id>	</item>
+		<item>
+		<title>Figmaのグループ化、結合・統合とコンポーネントの違いを知ろう</title>
+		<link>https://tomosta.jp/2022/11/figma-group/</link>
+					<comments>https://tomosta.jp/2022/11/figma-group/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2022 04:39:44 +0000</pubDate>
+				<category><![CDATA[入門記事]]></category>
+		<category><![CDATA[Figma]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22573</guid>
+
+					<description><![CDATA[Figmaで複数のシェイプをまとめるときに使う「グループ化」「結合」「統合」と「コンポーネント化」について紹介します]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Figmaのグループ化、結合・統合とコンポーネントの違いを知ろう" width="1220" height="686" src="https://www.youtube.com/embed/AAoIgOng0i4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Figmaでは、長方形や楕円などの「シェイプ」を組み合わせて、1つのオブジェクトとして扱うことができます。こうすることで、移動や変形などをやりやすくしたり、管理しやすくなります。</p>
+
+
+
+<p>この時Figmaには「グループ化」と「結合」、「統合」、そして「コンポーネント化」という方法があります。それぞれの違いについて紹介しましょう。</p>
+
+
+
+<h2>最も手軽なグループ化</h2>
+
+
+
+<p>複数のシェイプをまとめる方法で、一番手軽なのが「グループ化」です。一時的にまとめておきたいときや、単純に複数のシェイプをまとめたい場合に使います。グループ化をする場合は、複数のシェイプを選択したら、メインメニューの「オブジェクト→選択範囲をグループ化」メニューをクリックします。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-88-1024x576.png" alt="" class="wp-image-22594" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-88-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-88-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-88-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-88-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-88.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これで、1つのオブジェクトとして移動やサイズの変更などが行えます。レイヤーパネルをみると「Group 1」などと表示され、左側の<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/25b6.png" alt="▶" class="wp-smiley" style="height: 1em; max-height: 1em;" />をクリックすることで、中のシェイプをみたり編集することができます。また、オブジェクトをダブルクリックしても、各シェイプを編集することができ、グループ化したまま調整をすることもできます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-89-1024x576.png" alt="" class="wp-image-22595" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-89-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-89-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-89-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-89-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-89.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>そして、後からグループ化をやめたい場合は、同じメインメニューの「オブジェクト→選択範囲のグループ解除」メニューを選べば、簡単に解除することができます。こうして、どんどん関連したシェイプをまとめることができます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-90-1024x576.png" alt="" class="wp-image-22596" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-90-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-90-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-90-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-90-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-90.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>面白い効果を作れる結合</h2>
+
+
+
+<p>グループ化と似たまとめ方に「結合」があります。同じく複数のシェイプを選択したら、メインメニューから「オブジェクト→ブーリアングループ→選択範囲の結合」をクリックしましょう。グループ化と同じように、1つのオブジェクトにする事ができます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-91-1024x576.png" alt="" class="wp-image-22597" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-91-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-91-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-91-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-91-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-91.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>レイヤーパネルでは「Union 1」などと表示されますが、中のシェイプはグループ化と同様に編集することができます。</p>
+
+
+
+<p>ただし、グループ化と違って結合したオブジェクトは、それ自身が1つのシェイプとして扱われます。そのため、「塗り」や「線」の設定も1つしか保持できず、別々の設定をしているシェイプ同士を結合すると、統一されてしまいます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-92-1024x576.png" alt="" class="wp-image-22599" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-92-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-92-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-92-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-92-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-92.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>また、結合したオブジェクトに「線」を引いてみるとグループ化の違いが分かります。グループ化の場合は線を引いても、それぞれのシェイプに線が引かれます。しかし、結合をしたオブジェクトに線を引くと、全体の周りにだけ線が引かれます。このように、グループ化とは違った加工が行えるようになります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-93-1024x576.png" alt="" class="wp-image-22600" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-93-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-93-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-93-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-93-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-93.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>結合の種類</h3>
+
+
+
+<p>ブーリアングループには、結合の他にも次のような結合方法があります。</p>
+
+
+
+<h3>結合</h3>
+
+
+
+<p>2つ以上のシェイプをそのまま組み合わせます</p>
+
+
+
+<h3>型抜き</h3>
+
+
+
+<p>上に重なったシェイプの形に、下のシェイプが切り抜かれます</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-94-1024x576.png" alt="" class="wp-image-22602" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-94-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-94-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-94-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-94-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-94.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>交差</h3>
+
+
+
+<p>2つのシェイプが重なっている部分だけが残ったオブジェクトになります</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-95-1024x576.png" alt="" class="wp-image-22603" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-95-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-95-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-95-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-95-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-95.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>中窓</h3>
+
+
+
+<p>交差の逆で、重なっている場所だけが切り抜かれたオブジェクトになります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-96-1024x576.png" alt="" class="wp-image-22604" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-96-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-96-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-96-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-96-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-96.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>最終的に行う統合</h2>
+
+
+
+<p>統合は、グループ化や結合と違って「解除」をする事ができません。また、レイヤーパネルでも中のシェイプを確認することができなくなります（ただし、ダブルクリックで編集することはできます）。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-97-1024x576.png" alt="" class="wp-image-22606" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-97-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-97-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-97-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-97-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-97.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>つまり統合は、グループ化や結合をして編集を行った後、最終的にそれ以上変更をしないといった場合に利用することがあります。とはいえ、実際にはあまり使うメリットはなさそうなので、使う機会はまれかと思います（筆者の知らないメリットがありましたらコメント欄で教えてください）。</p>
+
+
+
+<h2>再利用可能なパーツを作成できるコンポーネント</h2>
+
+
+
+<p>コンポーネントは、単に複数のシェイプをまとめるだけではなく、作成したオブジェクトを再利用可能なパーツにする事ができる、非常に高機能な概念です。</p>
+
+
+
+<p>複数のシェイプを選択したら、メインメニューで「オブジェクト→コンポーネントの作成」をクリックしましょう。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-98-1024x576.png" alt="" class="wp-image-22607" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-98-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-98-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-98-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-98-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-98.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>基本的にはグループ化と同様に管理することができます。しかし、選択時の線の色やレイヤーパネル内での色などが他と変わる事が分かります。また、「アセット」パネルに作成したコンポーネントが表示されます。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-99-1024x576.png" alt="" class="wp-image-22609" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-99-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-99-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-99-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-99-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-99.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>コンポーネントは他のグループ化したオブジェクトなどと同様に、複製する事ができます。しかし、レイヤーパネルでの見た目などが異なっています。この状態で、最初に作成したコンポーネント（これをメインコンポーネントと言います）を編集してみましょう。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-100-1024x576.png" alt="" class="wp-image-22610" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-100-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-100-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-100-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-100-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-100.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>それに合わせて、複製したものも変化するようになります。</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/11/image-101-1024x576.png" alt="" class="wp-image-22612" srcset="https://tomosta.jp/wp-content/uploads/2022/11/image-101-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/11/image-101-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/11/image-101-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/11/image-101-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/11/image-101.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>コンポーネントは、メインコンポーネントから派生したオブジェクト（これを、インスタンスといいます）は、メインコンポーネントで変更された内容を反映するようになります。これによって、例えば画面全体で利用するボタンなどのパーツをコンポーネントにすることで、全体の見た目の統一を保ったまま編集できるという訳です。コンポーネントについては、これ以外にもさまざまな使い方があるので、別の記事で改めて紹介しましょう。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/11/figma-group/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22573</post-id>	</item>
+		<item>
+		<title>PHPのFileinfo（finfo）で、ファイルの種類を表示しよう</title>
+		<link>https://tomosta.jp/2022/11/php%e3%81%aefileinfo%ef%bc%88finfo%ef%bc%89%e3%81%a7%e3%80%81%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%81%ae%e7%a8%ae%e9%a1%9e%e3%82%92%e8%a1%a8%e7%a4%ba%e3%81%97%e3%82%88%e3%81%86/</link>
+					<comments>https://tomosta.jp/2022/11/php%e3%81%aefileinfo%ef%bc%88finfo%ef%bc%89%e3%81%a7%e3%80%81%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%81%ae%e7%a8%ae%e9%a1%9e%e3%82%92%e8%a1%a8%e7%a4%ba%e3%81%97%e3%82%88%e3%81%86/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 05:20:07 +0000</pubDate>
+				<category><![CDATA[プログラミング]]></category>
+		<category><![CDATA[PHP]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22435</guid>
+
+					<description><![CDATA[PHPでファイルをアップロードしたときに、その種類を知ることができるFileinfoファンクションを紹介します。]]></description>
+										<content:encoded><![CDATA[
+<p>例えば、ユーザーが画像をアップロードできるサービスを作成する場合、本当にユーザーがアップロードしたファイルが画像であることを確認してからなければ、画面に表示できないばかりか、コンピューターウィルスを仕込まれたりなどの危険性があります。</p>
+
+
+
+<p>PHPでは、ファイルのアップロード自体は次の方法でできます。まずは、フォームを準備して<code>type</code>属性が<code>file</code>になっているエリアを準備します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;form action="" method="post" enctype="multipart/form-data"&gt;
+    &lt;input type="file" name="myまたはfile"&gt;
+    &lt;button type="submit"&gt;送信する&lt;/button&gt;
+&lt;/form&gt;</code></pre>
+
+
+
+<p>またこの時、<code>form</code>タグに<code>enctype="multipart/form-data"</code>属性を追加する必要があります。これで、ファイルを送信できます。</p>
+
+
+
+<h2>$_FILESのtypeは信用しない</h2>
+
+
+
+<p>この時、PHPは<code>$_FILES</code>というグローバル変数にアップロードされたファイルが格納され、次のような要素の配列で各要素を取得できます。</p>
+
+
+
+<ul>
+<li>name: ファイル名</li>
+
+
+
+<li>type: ファイルの種類（MIMEタイプ）</li>
+
+
+
+<li>size: ファイルのサイズ</li>
+
+
+
+<li>tmp_name: 一時的に保存されている場所のパス</li>
+
+
+
+<li>full_path: ファイルパス</li>
+</ul>
+
+
+
+<p>となり、この中に<code>type</code>という値があるため、これでファイルの種類を知ることができます。しかし、この値は信用することができません。Webブラウザーから渡された値であるため、偽装されている可能性がゼロとはいえないのです。</p>
+
+
+
+<p>そこで、実際にアップロードされたファイルを使って、改めてファイルタイプやファイルサイズを取得するとよいでしょう。</p>
+
+
+
+<h2>mime_content_typeファンクションは非推奨？</h2>
+
+
+
+<p>ファイルの種類のことを「MIMEタイプ（マイムタイプ）」といい、PHPでこのMIMEタイプを取得する場合、<code>mime_content_type</code>というファンクションがあります。</p>
+
+
+
+<p>しかし、2022年現在ではこのファンクションは使いにくいファンクションです。一時期は「非推奨」という扱いになり、廃止が検討されていたり、また現在でも標準では利用できずに「php.ini」という設定ファイルを編集しなければ使えない環境などもあります。</p>
+
+
+
+<p>そこで、代わりに使いたいのは<code>Fileinfo</code>ファンクション、またそれをクラス化しか<code>finfo</code>というクラスです。ここでは、<code>finfo</code>を利用しましょう。</p>
+
+
+
+<h2>finfoクラスが利用できるか確認しよう</h2>
+
+
+
+<p>PHPの設定によっては、finfoクラスが使えずに次のようなエラーメッセージが表示されることがあります。</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Uncaught Error: Class &#8220;finfo&#8221; not found in</p>
+</blockquote>
+
+
+
+<p>この場合は、<code>php.ini</code>に次のように書き加えましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>extension=php_fileinfo.dll</code></pre>
+
+
+
+<p>こうしてサーバーを再起動すれば利用できるようになります。</p>
+
+
+
+<h2>finfoクラスとは</h2>
+
+
+
+<p>finfoクラスは、PHP5.3から利用できるようになったクラスで、fileinfoファンクションのインタフェースというものです。これは、PHPでオブジェクト指向のプログラミングができるように、旧来のファンクションをクラスにしたもので、PHPにはこのようなクラスがいくつかあります。</p>
+
+
+
+<p>これを使うには、まずは次のように宣言します。</p>
+
+
+
+<pre class="wp-block-code"><code>$finfo    = new finfo();</code></pre>
+
+
+
+<p>そしたら、<code>file</code>メソッドで各情報を取得できます。</p>
+
+
+
+<pre class="wp-block-code"><code>$finfo = new finfo();
+$mimetype = $finfo-&gt;file( $path, FILEINFO_MIME_TYPE );
+echo $mimetype; // image/jpeg など</code></pre>
+
+
+
+<p>これで、ファイルのMIMEタイプを取得できます。例えば、JPEG画像の場合は「image/jpeg」などと表示されます。これを利用しましょう。</p>
+
+
+
+<p>ちなみに、ファイルサイズも<code>$_FILES</code>の値を利用せずに、<code>filesize</code>ファンクションを利用して、実際にサイズを取得するとよいでしょう。</p>
+
+
+
+<pre class="wp-block-code"><code>$filesize = filesize( $path );
+echo $filesize;</code></pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/11/php%e3%81%aefileinfo%ef%bc%88finfo%ef%bc%89%e3%81%a7%e3%80%81%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%81%ae%e7%a8%ae%e9%a1%9e%e3%82%92%e8%a1%a8%e7%a4%ba%e3%81%97%e3%82%88%e3%81%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22435</post-id>	</item>
+		<item>
+		<title>Udemyで販売中の『ちゃんと学ぶ、Adobe XD』にFigmaカリキュラムを追加しました</title>
+		<link>https://tomosta.jp/2022/11/udemy%e3%81%a7%e8%b2%a9%e5%a3%b2%e4%b8%ad%e3%81%ae%e3%80%8e%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e5%ad%a6%e3%81%b6%e3%80%81adobe-xd%e3%80%8f%e3%81%abfigma%e3%82%ab%e3%83%aa%e3%82%ad%e3%83%a5%e3%83%a9/</link>
+					<comments>https://tomosta.jp/2022/11/udemy%e3%81%a7%e8%b2%a9%e5%a3%b2%e4%b8%ad%e3%81%ae%e3%80%8e%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e5%ad%a6%e3%81%b6%e3%80%81adobe-xd%e3%80%8f%e3%81%abfigma%e3%82%ab%e3%83%aa%e3%82%ad%e3%83%a5%e3%83%a9/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2022 12:18:39 +0000</pubDate>
+				<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[Udemy]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22392</guid>
+
+					<description><![CDATA[Udemyで販売中の『ちゃんと学ぶ、Adobe XD』に Figmaのカリキュラムを追加し、講座名を『ちゃんと学ぶ、Figma &#038; Adobe XD』に改めました]]></description>
+										<content:encoded><![CDATA[
+<p>Udemyで Adobe XD講座を先日リリースしたのですが、その講座の収録中に Figmaが買収されるというショッキングな出来事がありました。（笑</p>
+
+
+
+<p>そこで、なんとその XD講座に Figmaの講座を「追加」して「ちゃんと学ぶ、Figma &amp; Adobe XD」に改めました。すでに購入頂いていた皆様は、追加費用なしでFigmaも学んで頂けます。全部で6時間を超える講座になりました。</p>
+
+
+
+<p>11/18まで有効の最安値クーポンをご利用頂き、ぜひこの機会にご受講頂ければ幸いです。</p>
+
+
+
+<ul>
+<li><a rel="noreferrer noopener" href="https://www.udemy.com/course/chanto-xd/?couponCode=ADD-FIGMA" data-type="URL" data-id="https://www.udemy.com/course/chanto-xd/?couponCode=ADD-FIGMA" target="_blank">ちゃんと学ぶ、Figma &amp; Adobe XD</a>＜最安値クーポン＞</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/11/udemy%e3%81%a7%e8%b2%a9%e5%a3%b2%e4%b8%ad%e3%81%ae%e3%80%8e%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e5%ad%a6%e3%81%b6%e3%80%81adobe-xd%e3%80%8f%e3%81%abfigma%e3%82%ab%e3%83%aa%e3%82%ad%e3%83%a5%e3%83%a9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22392</post-id>	</item>
+		<item>
+		<title>Udemyで『ざっくり学ぶ、WordPress 6.xでノーコードサイト制作講座』を発売しました</title>
+		<link>https://tomosta.jp/2022/07/udemy%e3%81%a7%e3%80%8e%e3%81%96%e3%81%a3%e3%81%8f%e3%82%8a%e5%ad%a6%e3%81%b6%e3%80%81wordpress-6-x%e3%81%a7%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%89%e3%82%b5%e3%82%a4%e3%83%88%e5%88%b6%e4%bd%9c/</link>
+					<comments>https://tomosta.jp/2022/07/udemy%e3%81%a7%e3%80%8e%e3%81%96%e3%81%a3%e3%81%8f%e3%82%8a%e5%ad%a6%e3%81%b6%e3%80%81wordpress-6-x%e3%81%a7%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%89%e3%82%b5%e3%82%a4%e3%83%88%e5%88%b6%e4%bd%9c/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Sat, 16 Jul 2022 14:07:43 +0000</pubDate>
+				<category><![CDATA[お知らせ]]></category>
+		<category><![CDATA[Udemy]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22239</guid>
+
+					<description><![CDATA[Udemyで新講座、『ざっくり学ぶ、WordPress 6.xでノーコードサイト制作講座』を発売いたしました。]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="[お知らせ] Udemyで新講座『ざっくり学ぶ、WordPress 6.xでノーコードサイト制作講座』をリリースしました" width="1220" height="686" src="https://www.youtube.com/embed/5ALDCNnJFhk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Udemyで新講座、『ざっくり学ぶ、WordPress 6.xでノーコードサイト制作講座』を発売いたしました。</p>
+
+
+
+<p>この講座は、WordPressの最新バージョン6.0以降で一般的になっているFSE（フルサイト編集）機能のみを用いて、ウェブサイトを制作する方法を紹介しています。</p>
+
+
+
+<p>従来のWordPressでは、HTML/CSSとPHPを利用してオリジナルのテーマを開発して、ウェブサイトを制作するのが一般的でした。しかし、FSE機能を使えば管理画面上でデザインのカスタマイズが容易に行え、オリジナルのテンプレートやデザインなども、管理画面上からカスタマイズできます。</p>
+
+
+
+<p>本講座は、WordPressの操作方法の基本からカスタマイズ方法、またロリポップを使ったウェブサーバーへの公開方法や、公開後に気をつけたいセキュリティ面、SEO対策面等についても紹介しています。</p>
+
+
+
+<p>4時間の講座となっていますので、手早く学んで頂けます。ご興味があれば、ぜひご受講頂けると幸いです。</p>
+
+
+
+<ul><li><a rel="noreferrer noopener" href="https://www.udemy.com/course/wordpress-nocode/?referralCode=23E7D591C16FFCCF5B30" target="_blank">ざっくり学ぶ、WordPress 6.xでノーコードサイト制作講座</a></li></ul>
+
+
+
+<p>なお、YouTubeのメンバーシップ（月額990円）をご契約の方はYouTubeでこちらの講座を受講して頂けます。過去の講座なども含めて受講し放題となっていますので、こちらもご利用頂ければ幸いです。</p>
+
+
+
+<ul><li><a href="https://www.youtube.com/channel/UCphTq6mefx_15CjD35qgXgA/join" target="_blank" rel="noreferrer noopener">メンバーシップへの登録</a></li><li><a href="https://www.youtube.com/playlist?list=UUMOphTq6mefx_15CjD35qgXgA" target="_blank" rel="noreferrer noopener">メンバー限定動画の一覧へ</a></li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/07/udemy%e3%81%a7%e3%80%8e%e3%81%96%e3%81%a3%e3%81%8f%e3%82%8a%e5%ad%a6%e3%81%b6%e3%80%81wordpress-6-x%e3%81%a7%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%89%e3%82%b5%e3%82%a4%e3%83%88%e5%88%b6%e4%bd%9c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22239</post-id>	</item>
+		<item>
+		<title>Vue 3 Composition API入門</title>
+		<link>https://tomosta.jp/2022/06/vue3-begin/</link>
+					<comments>https://tomosta.jp/2022/06/vue3-begin/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 14:14:13 +0000</pubDate>
+				<category><![CDATA[入門記事]]></category>
+		<category><![CDATA[Vue 3 Composition API 入門]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=22056</guid>
+
+					<description><![CDATA[Vue.jsは、最新版の3から「Composition API」という新しい開発スタイルが提供されるようになりました。
+
+Vue 2以前の作り方との比較を含めながら、Vueが初めてという方にも分かりやすく紹介していきます。]]></description>
+										<content:encoded><![CDATA[
+<p>Vue.jsは、JavaScriptライブラリとしてReactと共に人気のあるライブラリです。特に2021年に登場した最新の「Vue 3」からは「Composition API」という新しい開発手法が登場しました。</p>
+
+
+
+<p>これは、それまでのVue.jsの開発手法（これをOptions APIといいます）では、かなり独特だったプログラムの書き方が、かなりJavaScript標準の書き方に近づいたもので、Vue.jsに馴染めなかった人でも、すんなり導入できるスタイルに変化しました。</p>
+
+
+
+<p>本記事では、そんなComposition APIを利用したVue 3の開発手法を紹介しながら、簡単なToDoツールを開発していきましょう。</p>
+
+
+
+
+
+<div class="wp-block-snow-monkey-blocks-media-text smb-media-text"><div class="c-row c-row--margin c-row--reverse c-row--top"><div class="c-row__col c-row__col--1-1 c-row__col--lg-2-3"><h2 class="smb-media-text__title">参考書籍</h2><div class="smb-media-text__body">
+<p>速習 Vue.js 3 &#8211; Composition API編</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-buttons smb-buttons">
+<div class="wp-block-snow-monkey-blocks-btn smb-btn-wrapper"><a class="smb-btn" href="https://amzn.to/3npxKYE" target="_blank" rel="noopener noreferrer"><span class="smb-btn__label">Amazonで見る（アフリエイトリンク）</span></a></div>
+</div>
+</div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-3"><div class="smb-media-text__figure"><a href="https://amzn.to/3npxKYE" target="_self" rel="noopener"><img decoding="async" loading="lazy" src="https://tomosta.jp/wp-content/uploads/2022/06/51R0IjzN4qL._SY346_-187x300.jpg" alt="" width="187" height="300" class="wp-image-22060" srcset="https://tomosta.jp/wp-content/uploads/2022/06/51R0IjzN4qL._SY346_-187x300.jpg 187w, https://tomosta.jp/wp-content/uploads/2022/06/51R0IjzN4qL._SY346_.jpg 216w" sizes="(max-width: 187px) 100vw, 187px" /></a></div></div></div></div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Vue 3のプロジェクトを作成しよう 【Vue 3 Composition API入門】" width="1220" height="686" src="https://www.youtube.com/embed/BqqGEIdUkeI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Vue 3のプロジェクトを作成しよう</h2>
+
+
+
+<h3>npmを利用しよう</h3>
+
+
+
+<p>Vue 3は、HTMLファイルに後から組み込むこともできますが、npmを利用してプロジェクトを作成することもできます。今回は、この方法を利用するためnpmの環境を整えましょう。<a href="https://nodejs.org/ja/" target="_blank" rel="noreferrer noopener">Node.js</a>をインストールします。</p>
+
+
+
+<p>インストールが終わったら、ターミナル（Windowsの場合は、Microsoft TerminalまたはPowershell）を起動して、以下のコマンドを入力します。</p>
+
+
+
+<pre class="wp-block-code"><code>node -v</code></pre>
+
+
+
+<p>これで、図のようにバージョン番号が表示されていれば、正しくインストールされています。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-16-1024x576.png" alt="" class="wp-image-22064" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-16-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-16-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-16-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-16-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-16.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>後は、エディターとして<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">Visual Studio Code</a>とウェブブラウザーに<a href="https://www.google.com/intl/ja_jp/chrome/">Google Chrome</a>等を導入しておくと、開発しやすいでしょう。</p>
+
+
+
+<h3>プロジェクトを作成しよう</h3>
+
+
+
+<p>それでは、Vue 3のプロジェクトを作成しましょう。プロジェクトを作成する場所（ここではDesktop）に移動して、プロジェクトを作成します。</p>
+
+
+
+<pre class="wp-block-code"><code>cd Desktop
+npm init vue@lates</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-17-1024x576.png" alt="" class="wp-image-22067" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-17-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-17-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-17-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-17-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-17.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>すると、次のようなものをあわせてインストールするかを聞かれます。ここでは、すべて「No」を選ぶと良いでしょう。プロジェクト名はてきとうなものを入力していきます。</p>
+
+
+
+<ul><li>TypeScript &#8211; JavaScriptの上位互換言語</li><li>JSX &#8211; HTMLをJavaScript内で利用できる</li><li>Vue Router &#8211; ページ遷移のサポート</li><li>Pinia &#8211; 「状態管理」と呼ばれるデータの保管などに使われる</li><li>Vitest &#8211; テストフレームワーク</li><li>Cypress &#8211; 同上</li><li>ESLint &#8211; コードの検査などを行う</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-18-1024x576.png" alt="" class="wp-image-22070" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-18-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-18-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-18-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-18-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-18.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>こうしてコマンドを実行すると、各種ファイル群がダウンロードされます。ここで作成したフォルダーを、Visual Studio Code（VSCode）で開いておきましょう。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-19-1024x576.png" alt="" class="wp-image-22072" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-19-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-19-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-19-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-19-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-19.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>開発サーバーを起動しよう</h3>
+
+
+
+<p>Vue 3のプロジェクトには、簡易的なウェブサーバーが同梱されていて、これを起動しながら開発ができます。VSCodeで「ターミナル→新しいターミナル」メニューでターミナルを起動したら、次のコマンドを打ち込みましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>npm install
+npm run dev</code></pre>
+
+
+
+<p>アドレスが表示されれば、起動完了です。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-20-1024x576.png" alt="" class="wp-image-22075" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-20-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-20-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-20-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-20-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-20.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ここで表示されているアドレスをブラウザーで開いてみましょう。次の画面が表示されます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-21-1024x576.png" alt="" class="wp-image-22076" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-21-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-21-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-21-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-21-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-21.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>ファイルを変更してみよう</h3>
+
+
+
+<p>それでは、作られたファイル群を確認していきましょう。次のようなフォルダーやファイルが生成されています。</p>
+
+
+
+<ul><li>node_modules &#8211; Node.jsのモジュール群がインストールされます</li><li>public &#8211; 画像ファイルなどのリソースファイルが格納されます</li><li>src &#8211; ソースファイルが格納されます</li><li>src/assets &#8211; CSSや画像ファイルなど、ソース内で使われるリソースファイルが格納されます</li><li>src/components &#8211; コンポーネント（後述）が格納されます</li><li>src/App.vue &#8211; プロジェクトのメインとなるファイル</li><li>src/main.js &#8211; メインとなるJavaScriptファイル</li><li>index.html &#8211; ブラウザーに読み込まれる最初のHTMLファイル</li></ul>
+
+
+
+<p>この他、環境設定ファイルなどがありますが、基本的には「src」フォルダー内のファイルを編集していきます。</p>
+
+
+
+<p>ここでは、App.vueを編集してみましょう。11行目付近に「You did it!」というメッセージが記述されています。これは、ブラウザーに表示される画面の左側に表示されるメッセージです。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-22-1024x576.png" alt="" class="wp-image-22081" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-22-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-22-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-22-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-22-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-22.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これを、「ともすた」等に書き換えてみましょう。ファイルを保存すると、ブラウザーもすぐに変化します。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-23-1024x576.png" alt="" class="wp-image-22083" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-23-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-23-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-23-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-23-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-23.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これは、開発サーバーがファイルの変更を監視していて、必要に応じて再読込などするためです。</p>
+
+
+
+<h3>ビルドしよう</h3>
+
+
+
+<p>こうして、.vueという拡張子のファイルを編集していくことでプログラムを作成するのですが、これらのファイル群はそのままではウェブサーバーで公開することはできません。プロジェクトが完成した「ビルド」という作業が必要になります。</p>
+
+
+
+<p>まずは、開発サーバーを終了しましょう。ターミナル上で「Ctrl+C」を押します。代わりに、次のコマンドを打ち込みます。</p>
+
+
+
+<pre class="wp-block-code"><code>npm run build</code></pre>
+
+
+
+<p>すると、「dist」というフォルダーが自動的に増えます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-24-1024x576.png" alt="" class="wp-image-22087" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-24-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-24-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-24-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-24-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-24.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ここに、HTMLやJavaScript等のファイルが生成されるため、これをウェブサーバーに転送して公開できます。</p>
+
+
+
+<p>開発するときには、改めて開発サーバーを起動しておきましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>npm run dev</code></pre>
+
+
+
+<h2>Vueの新しい開発手法 Composition API</h2>
+
+
+
+<p>Vue 3では、従来のプログラムスタイルでも開発ができますが、新しくよりJavaScriptらしい開発スタイルでプログラミングができるようになりました。これを、「Composition API」といいます。（従来の開発スタイルをOptions APIといいます）</p>
+
+
+
+<p>ここでは、そんなComposition APIを利用した開発を大変してみましょう。</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Vueの新しい開発手法 Composition API 【Vue 3 Composition API入門】" width="1220" height="686" src="https://www.youtube.com/embed/N5JJMgQYLAU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h3>templateを準備しよう</h3>
+
+
+
+<p>まずは、<a href="https://tomosta.jp/2022/06/vue3-begin-01/" data-type="post" data-id="22056">前回の記事</a>を参考にVueのプロジェクトを作成してください。</p>
+
+
+
+<p>最初に画面には「src」フォルダーの「App.vue」ファイルが表示されます。今はサンプルのプログラムが書き込まれているので、一度これをすべて削除してしまいましょう。ブラウザー上の表示も真っ白の画面に変わります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-1024x576.png" alt="" class="wp-image-22115" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>.vueファイルにはHTMLを記述できますが、その際に前後を<code>&lt;template&gt;</code>タグで囲む必要があります。この中に、HTMLを記述していきましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;template&gt;
+  &lt;h1&gt;Vue 3&lt;/h1&gt;
+&lt;/template&gt;</code></pre>
+
+
+
+<p>これでファイルを保存すると、ブラウザーの表示内容も変化します。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-1-1024x576.png" alt="" class="wp-image-22118" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-1-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-1-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-1-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-1-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>Options APIでの書き方</h3>
+
+
+
+<p>ではまずは、Options APIを復習しておきましょう。例えば、<code>&lt;template&gt;</code>内に</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p&gt;1 + 1 = &lt;/p&gt;</code></pre>
+
+
+
+<p>と記述し、この最後に足し算の答えを表示してみましょう。Options APIの場合は、次のようにファイルの最後に追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script&gt;
+export default {
+  data() {
+    return {
+      answer: 2
+    }
+  }
+}
+&lt;/script&gt;</code></pre>
+
+
+
+<p>Options APIでは「data」という定義の中で、HTML内で利用したい内容を扱うことができます。表示するには、<code>&lt;template&gt;</code>内に、次のように「マスタッシュ構文」を記述します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p&gt;1 + 1 = {{ answer }}&lt;/p&gt;</code></pre>
+
+
+
+<p>これで、画面に結果が反映されます。</p>
+
+
+
+<p>マスタッシュ構文とは「{{」という記号で、扱いたいデータの名前などを記述するもので、これによって画面に「answer」の内容である「2」が表示されるようになります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-2-1024x576.png" alt="" class="wp-image-22122" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-2-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-2-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-2-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-2-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>従来のVueはこのような開発スタイルで開発してのですが、書き方がかなり独特で習得に手間がかかっていました。そこで、Composition APIというより素直な書き方が採用されました。今作成した<code>&lt;script&gt;</code>タグは削除しましょう。</p>
+
+
+
+<h3>Composition APIで記述しよう</h3>
+
+
+
+<p>今度は、ファイルの先頭に次のように追加しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+const answer = 2
+&lt;/script&gt;</code></pre>
+
+
+
+<p>これで、先ほどのマスタッシュ構文が正しく機能して、次のように画面に表示されます。（なお、実際にはこの記述では少し足りない部分がありますが、それについては後述します）</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-3-1024x576.png" alt="" class="wp-image-22125" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-3-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-3-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-3-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-3-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><code>&lt;script&gt;</code>タグに「setup」という属性が必要になるので気をつけてください。</p>
+
+
+
+<p>Composition APIの場合、実際のプログラムはECMAScriptの定数の宣言と同様です。「const」宣言の後に利用したい定数名とその値を設定するだけで、マスタッシュ構文で使うことができます。</p>
+
+
+
+<h3>computedで計算しよう</h3>
+
+
+
+<p>現状では、「answer」には直接「2」が代入されているため、これではプログラムを作って意味がありません。ここは、実際に「1+1」の計算をして、その結果を画面に表示してみましょう。Vueで計算式などを作る場合は<code>computed</code>構文を利用します。次のように変更しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+import { computed } from 'vue'
+
+const answer = computed(() =&gt; {
+  return 1 + 1
+})
+&lt;/script&gt;</code></pre>
+
+
+
+<p>これで画面には、「2」と表示されます。試しに別の計算式を入れてもきちんと計算してくれるのが分かります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-4-1024x576.png" alt="" class="wp-image-22130" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-4-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-4-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-4-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-4-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-4.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ここでは<code>computed</code>を利用しましたが、JavaScriptではこのように他で定義されたものを使うときに「モジュール」というものをインポートして利用することがよくあります。この書き方も覚えておきましょう。</p>
+
+
+
+<h3>HTMLを表示しよう</h3>
+
+
+
+<p>Vueで定義した定数は、安全性のためにそのままではHTMLなどを画面に表示することはできません。例えば、次のプログラムを作成してみましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+...
+const message = 'ようこそ &lt;strong&gt;ともすた&lt;/strong&gt;さん'
+&lt;/script&gt;
+
+&lt;template&gt;
+...
+&lt;p&gt;{{ message }}&lt;/p&gt;
+&lt;/template&gt;</code></pre>
+
+
+
+<p>この場合、次のようにHTMLタグがそのまま表示されてしまいます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-5-1024x576.png" alt="" class="wp-image-22132" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-5-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-5-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-5-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-5-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-5.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これを防ぐには、マスタッシュ構文を使わずに<code>v-html</code>という属性のようなものを利用して、次のように変更します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-html="message"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<p>これで、HTMLを展開して表示できるようになります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-6-1024x576.png" alt="" class="wp-image-22134" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-6-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-6-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-6-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-6-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-6.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>この<code>v-</code>から始まるHTML属性のようなものを「ディレクティブ」といい、VueがHTMLを制御する時によく利用します。なお、マスタッシュ構文も実は<code>v-text</code>というディレクティブでも同じように動作します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<p>この場合は、HTMLタグがそのまま表示されます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-7-1024x576.png" alt="" class="wp-image-22136" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-7-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-7-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-7-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-7-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-7.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>v-bindでHTMLのstyle属性を動的に書き換えよう</h3>
+
+
+
+<p>例えば、HTMLの<code>style</code>属性の内容をVueで書き換えたいとしましょう。この場合、次のように属性の中にマスタッシュ構文を使うことはできません。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message" style="color: {{ welcomeColor }}"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<p>代わりにこの場合は<code>v-bind</code>ディレクティブを利用します。まずは、<code>welcomeColor</code>という色を定義しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+...
+const welcomeColor = 'red'
+&lt;/script&gt;</code></pre>
+
+
+
+<p>そして、<code>style</code>属性は次のように変更します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message" v-bind:style="{ color: welcomeColor }"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<p>これにより、文字の色が<code>welcomeColor</code>で定義した内容に変わります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-8-1024x576.png" alt="" class="wp-image-22141" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-8-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-8-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-8-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-8-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-8.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><code>v-bind</code>ディレクティブを利用すると、属性の値に変数を利用できるようになるというわけです。</p>
+
+
+
+<h4>ハイフン付のプロパティには注意</h4>
+
+
+
+<p>1つ注意が必要なのは、プロパティにハイフン記号が必要な<code>background-color</code>等です。これは、JavaScriptの処理の関係で正しく動作しなくなるため、ハイフンを取り除いて、代わりにその後最初の文字を大文字にする「キャメル式」と呼ばれる記法に変換します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message" v-bind:style="{ <strong>backgroundColor</strong>: welcomeColor }"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<p>または、プロパティ自体をクオーテーション記号で囲むこともできます。複数のプロパティをカンマ区切りで並べたり、値を直接指定することもできます。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message" v-bind:style="{ 'background-color': welcomeColor, 'color': 'white' }"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-9-1024x576.png" alt="" class="wp-image-22146" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-9-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-9-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-9-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-9-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-9.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4>v-bindの省略記法</h4>
+
+
+
+<p><code>v-bind</code>ディレクティブは、非常によく利用するため省略記法があります。次のように<code>:</code>を記述するだけで代わりになります。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-text="message" :style="{ 'background-color': welcomeColor, 'color': 'white' }"&gt;&lt;/p&gt;</code></pre>
+
+
+
+<h3>フォームなどと連携するv-model</h3>
+
+
+
+<p>今度は、テキストフィールドパーツを利用してみましょう。次のように<code>input</code>要素を追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;template&gt;
+...
+お名前は？： &lt;input type="text" size="30"&gt;
+...
+&lt;/template&gt;</code></pre>
+
+
+
+<p>ここで、入力された名前をVueで扱いたいとしましょう。そこでまずは定数を準備します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+...
+const myname = ''
+&lt;/script&gt;</code></pre>
+
+
+
+<p>これまでは<code>v-html</code>や<code>v-text</code>で連携していましたが、この場合はテキストフィールドに入力した内容を反映する事ができません。テキストフィールドなどと双方向に連携したい場合は<code>v-model</code>を利用します。</p>
+
+
+
+<pre class="wp-block-code"><code>お名前は？： &lt;input type="text" size="30" v-model="myname"&gt;</code></pre>
+
+
+
+<p>これにより、テキストフィールドに入力した内容が<code>myname</code>に反映され、他の場所で利用できるようになります。</p>
+
+
+
+<h4>refで宣言しよう</h4>
+
+
+
+<p>その前に、実は今のプログラムでは正しくHTML側とVue側で値のやり取りができません。Vueで定数を宣言する場合は<code>ref</code>という宣言を使う必要があります。次のように変更しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+import { ref } from 'vue'
+...
+const myname = ref('')
+&lt;/script&gt;</code></pre>
+
+
+
+<p>これで、双方向に連携ができるようになります。それでは、ここで入力した名前を画面に表示してみましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p v-html="myname" ...&gt;</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-10-1024x576.png" alt="" class="wp-image-22154" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-10-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-10-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-10-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-10-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-10.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>メッセージを組み立てよう</h3>
+
+
+
+<p>それでは、ここまでのプログラムを組み合わせて、テキストフィールドに入力した名前を使って「ようこそ○○さん」と表示するプログラムを作成してみましょう。それには、<code>message</code>を<code>computed</code>で動的に生成します。</p>
+
+
+
+<pre class="wp-block-code"><code>const message = computed(() =&gt; {
+  return 'ようこそ &lt;strong&gt;' + myname.value + '&lt;/strong&gt;さん'
+})
+...
+&lt;template&gt;
+&lt;p v-html="message" ...&gt;
+&lt;/template&gt;</code></pre>
+
+
+
+<p>これで完成です。画面には入力した名前が表示されます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-11-1024x576.png" alt="" class="wp-image-22157" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-11-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-11-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-11-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-11-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-11.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>プログラム内で<code>ref</code>を使って宣言した定数の内容を利用する場合は<code>.value</code>として取得する必要があります。このあたりは、少しJavaScriptとは違った書き方が必要になるので気をつけましょう。</p>
+
+
+
+<p>とはいえ、Composition APIでのVueのプログラムの書き方は、かなり素直な書き方に変わっていることが分かります。プログラムを作りやすくなったと言えるでしょう。</p>
+
+
+
+<h2>ボタンのクリックに反応するイベント定義</h2>
+
+
+
+<p>Vueでのプログラミング開発は、ユーザーがなにかの操作をしたとき（イベントといいます）に、それに反応するプログラムを記述するというのが主になります。これを「イベントドリブン」などといいますが、ここではVueでのイベント定義について紹介しましょう。</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Vue 3 でボタンのクリックに反応するイベント定義 【Vue 3 Composition API入門】" width="1220" height="686" src="https://www.youtube.com/embed/8Q66nPQ84CE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h3>拡張機能で開発しやすくしよう</h3>
+
+
+
+<p>その前に、Vueでの開発を補助する拡張機能をVSCodeとGoogle Chromeにインストールしておきましょう。</p>
+
+
+
+<h4>Visual Studio CodeでVue用の拡張機能をインストールしよう</h4>
+
+
+
+<p>Visual Studio Code（VSCode）でVueの開発をする際、拡張子が「.vue」だとそのままではJavaScriptやHTMLとして認識してくれません。そこで、拡張機能をインストールして、開発しやすくしましょう。</p>
+
+
+
+<p>VSCodeの拡張機能画面で「vue」などのキーワードで検索をします。次のプラグインが見つかりますので、これをインストールしましょう。</p>
+
+
+
+<ul><li><a href="https://marketplace.visualstudio.com/items?itemName=vue.volar" target="_blank" rel="noreferrer noopener">Vue Language Features(Volar)</a></li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-12-1024x576.png" alt="" class="wp-image-22165" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-12-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-12-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-12-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-12-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-12.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これで、色分けされるようになりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-13-1024x576.png" alt="" class="wp-image-22167" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-13-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-13-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-13-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-13-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-13.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4>Google ChromeにもVue.js devtoolsをインストールしよう</h4>
+
+
+
+<p>今度は、Google ChromeでもVueの開発をしやすくする拡張機能をインストールしておきましょう。</p>
+
+
+
+<ul><li><a href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=ja" target="_blank" rel="noreferrer noopener">Vue.js devtools</a></li></ul>
+
+
+
+<p>インストールした後、Vueで開発したページを表示すると、ツールバー上のボタンが緑色になります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-14-1024x576.png" alt="" class="wp-image-22170" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-14-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-14-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-14-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-14-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-14.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>そして、開発者ツールに「Vue」というタブが増えます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-15-1024x576.png" alt="" class="wp-image-22172" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-15-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-15-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-15-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-15-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-15.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ここで、Vueのさまざまな情報を確認でき、開発しやすくなります。</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="https://tomosta.jp/wp-content/uploads/2022/07/image-16-1024x576.png" alt="" class="wp-image-22173" width="736" height="414" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-16-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-16-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-16-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-16-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-16.png 1920w" sizes="(max-width: 736px) 100vw, 736px" /></figure>
+
+
+
+<h3>イベント定義をしよう</h3>
+
+
+
+<p>それではイベントを定義してみます。新しいファイルを作成していきましょう。前回までのプログラムをすべて削除します。そして、次のように入力してフォームを追加してみましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;template&gt;
+  &lt;input type="text" size="30"&gt; &lt;button&gt;+1&lt;/button&gt;
+&lt;/template&gt;</code></pre>
+
+
+
+<p>すると、画面にはテキストフィールドとボタンが表示されました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-17-1024x576.png" alt="" class="wp-image-22177" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-17-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-17-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-17-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-17-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-17.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>では、このボタンをクリックしたらテキストフィールド内の数字が加算されるプログラムを作成してみましょう。</p>
+
+
+
+<h4>v-modelで数値を定義しよう</h4>
+
+
+
+<p>まずは、テキストフィールドの数字をプログラムで扱えるように、<code>v-model</code>で定義しましょう。まずは、ファイルの上部で次のように準備します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+import { ref } from 'vue'
+const number = ref(0)
+&lt;/script&gt;
+
+&lt;template&gt;
+...</code></pre>
+
+
+
+<p>これで、<code>number</code>という値を使えるようになりました。これを、<code>v-model</code>でテキストフィールドに割り当てます。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+&lt;input type="text" size="30" v-model="number"&gt;...
+...</code></pre>
+
+
+
+<p>これで、画面上のテキストフィールドに「0」が表示されるようになりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-18-1024x576.png" alt="" class="wp-image-22180" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-18-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-18-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-18-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-18-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-18.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なお、前節でインストールしたVue.js devtoolsがあれば、開発者ツールでも「number」を確認できます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-19-1024x576.png" alt="" class="wp-image-22182" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-19-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-19-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-19-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-19-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-19.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4>ボタンをクリックしたときのイベントを定義しよう</h4>
+
+
+
+<p>続いて、ボタンをクリックされたときのイベントを定義しましょう。<code>v-on</code>というディレクティブを利用します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;button v-on=""&gt;+1&lt;/button&gt;</code></pre>
+
+
+
+<p>この時に呼び出す処理は、<code>&lt;script&gt;</code>タグ内に次のように宣言します。</p>
+
+
+
+<pre class="wp-block-code"><code>const add = () =&gt; {
+}</code></pre>
+
+
+
+<p>これで、<code>add</code>という関数が定義されました。JavaScriptの「アロー宣言」という方法で宣言しています。</p>
+
+
+
+<p>処理の内容は、先ほど定義した<code>number</code>に1を加算するという処理を作ります。</p>
+
+
+
+<pre class="wp-block-code"><code>const add = () =&gt; {
+  number++
+}</code></pre>
+
+
+
+<p>「++」というのは、「インクリメント」といって1を加算するという処理です。そしたら、ここで定義したイベントを呼び出しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;button v-on="add()"&gt;+1&lt;/button&gt;</code></pre>
+
+
+
+<p>これで完成です。動作させると、テキストフィールド内の数字が加算されるようになりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-20-1024x576.png" alt="" class="wp-image-22185" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-20-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-20-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-20-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-20-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-20.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>クリックする度に加算されていきます。</p>
+
+
+
+<h3>v-onの省略</h3>
+
+
+
+<p><code>v-on</code>ディレクティブも利用する機会が多いため、前回紹介した<code>v-bind</code>等と同様で省略形が準備されています。<code>@</code>を記述します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;button @click="add()"&gt;...</code></pre>
+
+
+
+<p>こちらの書き方に慣れておくと良いでしょう。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-21-1024x576.png" alt="" class="wp-image-22188" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-21-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-21-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-21-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-21-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-21.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>v-forで繰り返し同じ処理を記述しよう</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Vue 3 繰り返し処理でリストを作ろう - v-for 【Vue 3 Composition API入門】" width="1220" height="686" src="https://www.youtube.com/embed/iJj5uy6Ki70?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>例えば、ToDoツールなどで「やることリスト」に入っている内容をすべて画面に表示したいといった場合に、同じ作業を繰り返し行ったりします。そのような時に使えるのが<code>v-for</code>という構文です。早速使ってみましょう。</p>
+
+
+
+<h3>HTMLを準備しよう</h3>
+
+
+
+<p>まずは、ここまでに作成した<code>App.vue</code>の内容はすべて削除し、次のように記述します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;template&gt;
+  &lt;input type="text" size="30"&gt;
+  &lt;button&gt;追加&lt;/button&gt;
+&lt;/template&gt;</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-22-1024x576.png" alt="" class="wp-image-22206" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-22-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-22-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-22-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-22-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-22.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>では、このテキストフィールドに入力した内容を、やることリスト（配列）に記録して、画面に表示していきましょう。</p>
+
+
+
+<h3>v-modelを定義しよう</h3>
+
+
+
+<p>それでは、テキストフィールドの内容とプログラムをつなげるために、<code>v-model</code>を定義しましょう。ファイルの先頭に、次のように追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+import { ref } from 'vue'
+const newTodo = ref('')
+&lt;/script&gt;
+...</code></pre>
+
+
+
+<p>それから、テキストフィールドのHTMLには、<code>v-model</code>ディレクティブを追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;input type="text" size="30"<strong> v-model="newTodo"</strong>&gt;</code></pre>
+
+
+
+<p>これで、反映するようになりました。テキストフィールドになにか入力してみましょう。デベロッパーツールの「Vue」タブを確認すると、反映されていることが確認できます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-23-1024x576.png" alt="" class="wp-image-22212" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-23-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-23-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-23-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-23-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-23.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>アクションを定義しよう</h3>
+
+
+
+<p>続いて、「追加」ボタンをクリックしたらテキストフィールドの内容を配列に格納しましょう。プログラムに次のように追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup&gt;
+import { ref } from 'vue'
+
+<strong>const todos = ref(&#91;])</strong>
+const newTodo = ref('')
+
+<strong>const addTodo = () =&gt; {
+  todos.value.push(newTodo.value)
+}
+</strong>&lt;/script&gt;</code></pre>
+
+
+
+<p>ここでは、<code>todos</code>という配列を準備しました。そして、<code>addTodo</code>というアクションを定義し、その中で、ここで準備した配列の<code>push</code>メソッドを使って、要素を追加しています。追加するないようは、テキストフィールドに入力されている内容です。</p>
+
+
+
+<p>そしたら、ボタンをクリックした時のイベントとして、今定義した<code>addTodo</code>を割り当てましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;button <strong>@click="addTodo()"</strong>&gt;追加&lt;/button&gt;</code></pre>
+
+
+
+<p>これで、テキストフィールドになにかを入力して「追加」ボタンをクリックすると、配列に追加されることが分かります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-24-1024x576.png" alt="" class="wp-image-22220" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-24-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-24-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-24-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-24-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-24.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>こうして、次々に配列に値を入れることができます。</p>
+
+
+
+<h3>配列の内容を表示しよう</h3>
+
+
+
+<p>それでは、ここで準備した配列の内容を表示していきましょう。まずは、HTMLを準備します。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+&lt;ul&gt;
+  &lt;li&gt;あれをやる&lt;/li&gt;
+  &lt;li&gt;これをやる&lt;/li&gt;
+&lt;/ul&gt;
+...</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-25-1024x576.png" alt="" class="wp-image-22224" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-25-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-25-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-25-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-25-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-25.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これを実際に配列の内容に置き換えていきましょう。<code>&lt;li&gt;</code>タグに<code>v-for</code>ディレクティブを追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+&lt;li<strong> v-for="(todo, i) in todos"</strong>&gt;{{ i }}. {{ todo }}&lt;/li&gt;
+...</code></pre>
+
+
+
+<p><code>in</code>という構文は、<code>todos</code>という配列の内容を1件取りだして<code>todo</code>に内容を、<code>i</code>にその順番を格納するという構文です。そしてこれは、配列の内容がすべて取り出されるまで繰り返し行われます。</p>
+
+
+
+<p>これで、テキストフィールドになにかを入力すると、下にリストが表示されるようになります。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-26-1024x576.png" alt="" class="wp-image-22229" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-26-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-26-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-26-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-26-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-26.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なお、<code>v-for</code>を使う場合はその行を特定するために<code>key</code>という値を<code>v-bind</code>する必要があります。そしてここには、他と重複しない値を挿入します。そのため、先ほど取りだした<code>i</code>を使いましょう。次のように変更します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;li<strong> </strong>v-for="(todo, i) in todos"<strong> v-bind:key="i"</strong>&gt;{{ i }}. {{ todo }}&lt;/li&gt;</code></pre>
+
+
+
+<h3>入力された内容を削除しよう</h3>
+
+
+
+<p>現状、テキストフィールドの内容を追加しても、入力した内容がまだテキストフィールドに残ってしまうため、消さなければなりません。これを、自動で削除されるようにしましょう。<code>addTodo</code>を次のように変更します。</p>
+
+
+
+<pre class="wp-block-code"><code>...
+const addTodo = () =&gt; {
+  todos.value.push(newTodo.value)
+<strong>  newTodo.value = ''
+</strong>}
+...</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-27-1024x576.png" alt="" class="wp-image-22234" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-27-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-27-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-27-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-27-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-27.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なお、確認できたら番号の表示は不要なので、これを削除して次のようにしておきましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;li<strong> </strong>v-for="(todo, i) in todos"<strong> v-bind:key="i"</strong>>{{ todo }}&lt;/li></code></pre>
+
+
+
+<h2>Vue 3で条件によって要素を表示・非表示しよう &#8211; v-if / v-else</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="Vue 3で条件によって要素を表示・非表示しよう - v-if / v-else" width="1220" height="686" src="https://www.youtube.com/embed/yVgwplzshug?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>ここでは、ToDoの削除機能を実装しましょう。まずは、リストの右端に削除ボタンの代わりに「x」を記述します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;li v-for="(todo, i) in todos" v-bind:key="i">{{ todo }} x&lt;/li></code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-28-1024x576.png" alt="" class="wp-image-22252" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-28-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-28-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-28-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-28-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-28.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>続いて、イベントを定義していきましょう。まずは<code>removeTodo</code>というメソッドを準備しておきます。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;script setup>
+...
+const removeTodo = (index) => {
+  todos.value.splice(index, 1)
+}
+&lt;/script></code></pre>
+
+
+
+<p><code>splice</code>というのは、配列から様子を削除するためのメソッドで、ここでは指定された要素を1件配列から削除することで、ToDoを削除したというわけです。</p>
+
+
+
+<p>続いて、削除ボタンにイベントを定義していきます。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;li ...><strong>&lt;span @click="removeTodo(i)">x&lt;/span></strong>&lt;/li></code></pre>
+
+
+
+<p>これで、動作するようになります。ただし、現状では削除ボタンがクリックできるのかが判別しにくいので、スタイルシートを使ってマウスカーソルの形状を変えておきましょう。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-29-1024x576.png" alt="" class="wp-image-22255" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-29-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-29-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-29-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-29-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-29.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<pre class="wp-block-code"><code>&lt;li ...>&lt;span @click="removeTodo(i)"<strong> style="cursor: pointer"</strong>>x&lt;/span>&lt;/li></code></pre>
+
+
+
+<p>これで分かりやすくなりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-30-1024x576.png" alt="" class="wp-image-22257" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-30-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-30-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-30-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-30-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-30.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これで削除が機能するようになります。ToDoを登録して削除すると、実際にリストから消えることが確認できます。</p>
+
+
+
+<h3>ToDoがないときは、メッセージを表示しよう</h3>
+
+
+
+<p>ToDoが一件もないときは、現状では空の<code>&lt;ul></code>タグが出力されてしまい、画面が真っ白になってしまいます。これではツールとして分かりにくいので、ここではその旨のメッセージを表示するようにしましょう。</p>
+
+
+
+<p>これには、条件に従って要素の表示・非表示を制御できる<code>v-if</code>というディレクティブを利用します。</p>
+
+
+
+<p>まずは、<code>&lt;ul></code>タグに次のように追加しましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;ul v-if="todos.length > 0">
+...
+&lt;/ul></code></pre>
+
+
+
+<p>これで、ToDoが1件もない場合は出力しないという指定です。ToDoの配列は<code>.length</code>というプロパティで現在の件数を知ることができます。これが、0よりも大きい場合にだけ出力されるようになります。</p>
+
+
+
+<p>これで画面を表示して、HTMLのソースを確認すると、<code>&lt;ul></code>タグの代わりにVueのコメントタグが挿入されています。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-31-1024x576.png" alt="" class="wp-image-22265" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-31-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-31-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-31-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-31-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-31.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>そして、ToDoを追加すると<code>&lt;ul></code>タグから含めて出力されるようになります。</p>
+
+
+
+<h3>「そうではない場合」を表すv-else</h3>
+
+
+
+<p><code>v-if</code>で指定した条件が満たされなかったときに、別の処理をしたい場合は<code>v-else</code>というディレクティブを使うことができます。</p>
+
+
+
+<p><code>v-else</code>は<code>v-if</code>を指定した要素と連続で使う必要があります。ここでは、ToDoが1件もない場合に「※ ToDoを追加してください」というメッセージを表示するようにしましょう。次のように追加します。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;ul v-if="todos.length > 0">
+   ...
+&lt;/ul>
+&lt;p <strong>v-else</strong>>※ ToDoを追加してください&lt;/p></code></pre>
+
+
+
+<p>これにより、ToDoが一件もない場合はメッセージが表示されるようになりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-32-1024x576.png" alt="" class="wp-image-22269" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-32-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-32-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-32-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-32-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-32.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ToDoを入れると、メッセージが消えて代わりにリストが表示されます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/07/image-33-1024x576.png" alt="" class="wp-image-22270" srcset="https://tomosta.jp/wp-content/uploads/2022/07/image-33-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/07/image-33-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/07/image-33-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/07/image-33-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/07/image-33.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>v-ifと似たv-show</h3>
+
+
+
+<p>なお、<code>v-if</code>と似た動きをするディレクティブとして<code>v-show</code>というものがあります。こちらは、要素自体は削除せずにCSSの<code>display</code>プロパティで表示を制御するためのものです。特別な理由がなければ、<code>v-if</code>を使っておいた方が良いでしょう。</p>
+
+
+
+<p>以下執筆中</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/06/vue3-begin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22056</post-id>	</item>
+		<item>
+		<title>ブラウザーで Pythonが動く！？　PyScriptをご紹介￼</title>
+		<link>https://tomosta.jp/2022/06/pyscript/</link>
+					<comments>https://tomosta.jp/2022/06/pyscript/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2022 13:18:19 +0000</pubDate>
+				<category><![CDATA[プログラミング]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=21979</guid>
+
+					<description><![CDATA[ウェブブラウザー上でPythonで作ったプログラムが動作しちゃう「PyScript」をご紹介！]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="ブラウザーで Pythonが動く！？　PyScript" width="1220" height="686" src="https://www.youtube.com/embed/LkBr6VnsbNE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>ブラウザー上で動作するスクリプト言語といえば、現在ではJavaScriptが唯一の存在です。（昔は、VBScriptなどもありました）</p>
+
+
+
+<p>しかし、これにはJavaScriptという独特な言語を習得しなければなりません。そこで、使い慣れたPtyhonをブラウザー上で動作させてしまおうというプロジェクトが「PyScript」です。早速使ってみましょう。</p>
+
+
+
+<h2>インストールしよう</h2>
+
+
+
+<p>PyScriptを使うには、専用のライブラリーを利用します。<a href="https://pyscript.net/">公式サイト</a>から、ファイルをダウンロードするか、リンク用のHTMLコードをコピーしましょう。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-1024x576.png" alt="" class="wp-image-21981" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<pre class="wp-block-code"><code>&lt;html lang="ja"&gt;
+&lt;head&gt;
+...
+  &lt;link rel="stylesheet" href="&lt;https://pyscript.net/alpha/pyscript.css&gt;" /&gt;
+  &lt;script defer src="&lt;https://pyscript.net/alpha/pyscript.js&gt;"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;PyScript&lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+
+
+<p>すると、<code>&lt;py-script&gt;</code>という特別なタグが使えるようになります。ここに、Pythonのプログラムコードを記述していきましょう。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;py-script&gt;
+  print('PyScriptです')
+&lt;/py-script&gt;
+</code></pre>
+
+
+
+<p>画面上に、「PyScriptです」と表示されます。<code>document.write</code>の代わりに<code>print</code>が使えるようになりました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-1-1024x576.png" alt="" class="wp-image-21982" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-1-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>関数を定義しよう</h2>
+
+
+
+<p>関数を定義することもできます。Pythonの<code>def</code>宣言を使います。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;py-script&gt;
+# 税込金額を計算する
+def add_tax(price):
+    return round(price * 1.1)
+
+print(add_tax(500))
+&lt;/py-script&gt;
+</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-1-1024x576.png" alt="" class="wp-image-21982" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-1-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-1-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なおこの時、Pythonはタブ記号の数でインデントを表すため、HTML内でもタブ記号を入れることができませんので気をつけましょう。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-2-1024x576.png" alt="" class="wp-image-21983" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-2-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-2-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-2-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-2-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>要素を書き換えよう</h2>
+
+
+
+<p>HTML内の要素を書き換えたい場合は、<code>pyscript.write</code>を使います。</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;p&gt;500円の税込金額は、&lt;span id="taxprice"&gt;&lt;/span&gt;円です&lt;/p&gt;
+&lt;py-script&gt;
+def add_tax(price):
+    return round(price * 1.1)
+
+pyscript.write('taxprice', add_tax(500))
+&lt;/py-script&gt;
+</code></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-3-1024x576.png" alt="" class="wp-image-21985" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-3-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>モジュールを利用しよう</h2>
+
+
+
+<p>PyScriptでは、Pythonのモジュールを利用することもできるようです。（このあたり筆者がPythonに詳しくないため、ドキュメントからの転記です）</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;py-env&gt;
+  - numpy
+  - matplotlib
+&lt;/py-env&gt;
+</code></pre>
+
+
+
+<p>GitHubのドキュメントには、<a href="https://github.com/pyscript/pyscript/blob/main/GETTING-STARTED.md">サンプルプログラム</a>なども掲載されています。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/06/image-3-1024x576.png" alt="" class="wp-image-21985" srcset="https://tomosta.jp/wp-content/uploads/2022/06/image-3-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/06/image-3-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/06/image-3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>現状では実用性に乏しいが、将来性に期待</h2>
+
+
+
+<p>現状では、動作速度がかなり重く、実用性はかなり低いといえます。</p>
+
+
+
+<p>とはいえ、Pythonが直接ブラウザー上で動作させられるというのは、非常に可能性のある話ではないでしょうか。ウェブには詳しくないが、人工知能や数学的なプログラミングを普段Pythonでされているという方が、ブラウザー上で手軽に試せるプロダクトなどを発表することに使われるかも知れません。</p>
+
+
+
+<p>また例えば、これを応用してTypeScriptのように「PythonをJavaScriptにトランスコンパイルする」といった技術が確立したら、より利用者が増えそうです。今後の開発に注目ですね。</p>
+
+
+
+<ul><li><a href="https://pyscript.net/">PyScript</a></li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/06/pyscript/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21979</post-id>	</item>
+		<item>
+		<title>ロリポップでWordPressが爆速になる『LiteSpeed Cache』がリリース</title>
+		<link>https://tomosta.jp/2022/05/litespeed-cache/</link>
+					<comments>https://tomosta.jp/2022/05/litespeed-cache/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Sat, 14 May 2022 01:44:55 +0000</pubDate>
+				<category><![CDATA[トレンド]]></category>
+		<category><![CDATA[ロリポップ]]></category>
+		<category><![CDATA[サーバー]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=21828</guid>
+
+					<description><![CDATA[レンタルサーバーのロリポップで、WordPressの動作がより高速にする『LiteSpeed Cache』がリリースされました。ハイスピードプラン（月額550円〜）から利用可能です。]]></description>
+										<content:encoded><![CDATA[
+<p>レンタルサーバーの<a href="https://px.a8.net/svt/ejp?a8mat=1037TW+7OUOXM+348+69WPU" target="_blank" rel="noreferrer noopener">ロリポップ</a>で、WordPressの動作がより高速にする『<a href="https://px.a8.net/svt/ejp?a8mat=1037TW+7OUOXM+348+69WPU" target="_blank" rel="noreferrer noopener">LiteSpeed Cache</a>』がリリースされました。ハイスピードプラン（月額550円〜）から利用可能です。</p>
+
+
+
+<p>WordPressのプラグインで有効化するだけでキャッシュ機能が有効になり、表示速度が爆速化されるとのことです。</p>
+
+
+
+<h2>LiteSpeed Cacheを利用するメリット</h2>
+
+
+
+<ul><li>PageSpeed Insightsのスコアが改善するため、SEOやCVR改善にポジティブな効果が期待できます。</li><li>パフォーマンスの高いサイトはGoogle検索結果の順位に好影響を与えると考えられています</li><li>ユーザーが快適にサイトを閲覧できるようになるため、ブランディングや顧客の獲得などサイトの目的を達成しやすくなります。</li></ul>
+
+
+
+<p>爆速WordPressを利用したい方は、ぜひご利用ください。</p>
+
+
+
+<a href="https://px.a8.net/svt/ejp?a8mat=1037TW+7OUOXM+348+6CHB5" rel="nofollow">
+<img decoding="async" loading="lazy" border="0" width="728" height="90" alt="" src="https://www20.a8.net/svt/bgt?aid=060616292465&amp;wid=006&amp;eno=01&amp;mid=s00000000404001066000&amp;mc=1"></a>
+<img decoding="async" loading="lazy" border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=1037TW+7OUOXM+348+6CHB5" alt="">
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/05/litespeed-cache/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21828</post-id>	</item>
+		<item>
+		<title>プログラマのためのPC/スマホ/タブレットの選び方 2022年度版</title>
+		<link>https://tomosta.jp/2022/04/mac-android-2022/</link>
+					<comments>https://tomosta.jp/2022/04/mac-android-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2022 10:26:50 +0000</pubDate>
+				<category><![CDATA[トレンド]]></category>
+		<category><![CDATA[プログラミング]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[mac]]></category>
+		<guid isPermaLink="false">https://tomosta.jp/?p=21796</guid>
+
+					<description><![CDATA[春になって、これから新しく学習用、仕事用にコンピューターを揃えたいという方も少なくないでしょう。 WindowsかMacか、iPadは買うべきか。さまざまなデバイスが登場していて迷ってしまいます。そんなときの1つの指針と [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="c-responsive-container-16-9"><iframe loading="lazy" title="プログラマのためのPC/スマホ/タブレットの選び方 2022" width="1220" height="686" src="https://www.youtube.com/embed/yVeZq_i7_48?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>春になって、これから新しく学習用、仕事用にコンピューターを揃えたいという方も少なくないでしょう。</p>
+
+
+
+<p>WindowsかMacか、iPadは買うべきか。さまざまなデバイスが登場していて迷ってしまいます。そんなときの1つの指針として、筆者のおすすめデバイスを紹介していきましょう。</p>
+
+
+
+<h2>筆者の紹介</h2>
+
+
+
+<p>まずはその前に筆者の環境を紹介しておきましょう。</p>
+
+
+
+<p>筆者はプログラマーとして働き出した当時は、Windowsを使っていましたが2002年頃に「Mac OS X」に触れてからMacに惚れて、ずっとMacユーザーでした。しかし、2016年頃にWindows 10が登場して、今度はWindowsに惚れてWindowsに戻り、さらに2021年頃からM1 Mac（後述）に惚れてMacに戻りました。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-38-1024x576.png" alt="" class="wp-image-21797" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-38-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-38-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-38-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-38-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-38.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>元来、無類のデバイス好きで、目新しいデバイスをどんどん買ってしまうため、今も手元にWin/Mac、iPhone/Android、iPadにChromeOSタブレットとAndroidタブレット、Apple WatchにAndroid Wear Wachといった具合に、思いつく限りのデバイスがあります。</p>
+
+
+
+<p>そんな筆者の環境で、生き残ったデバイスについて紹介していきましょう。</p>
+
+
+
+<h2>PCならM1 Macのノートタイプ</h2>
+
+
+
+<p>PCは現在、Windows 11のマシンと、Windows 10のマシン、そしてM1 MacとIntel Macという選択肢があります。</p>
+
+
+
+<p>Windows機を普通に買うと、Win11のマシンになるのですが、これは正直オススメできません。</p>
+
+
+
+<p>筆者は、Windows 10の時はMicrosoft Surfaceシリーズを好んで使い、Pro/Laptop/Book/Goなどあらゆるデバイスを購入するほどのファンでした。が、M1 Macの発売と同時にMacに戻ってしまいました。</p>
+
+
+
+<p>そして、Windows 11がリリースされたとき、プリインストールされたSurface Go 3を購入して利用していたのですが、あまりのできに絶望して、当面Windowsは利用しないぞと心に誓いました。</p>
+
+
+
+<p>Windows 11は、Windows 10の劣化版といえる存在で、macOSに近付けるあまりにWindowsの良さを殺してしまったOSといわざるを得ません。PCとしてもタブレットとしても使いにくく、もはや使い物にならないOSでした。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-39-1024x576.png" alt="" class="wp-image-21798" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-39-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-39-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-39-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-39-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-39.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ということで、2022年の現在おすすめするとしたら断然macOSになります。macOS自体は良くも悪くもなっていない、オーソドックスなバージョンアップを遂げているのですが、新しいプロセッサーであるM1のできがあまりにもすごいです。</p>
+
+
+
+<h3>Macを選ぶなら断然M1</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-45-1024x576.png" alt="" class="wp-image-21804" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-45-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-45-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-45-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-45-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-45.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>M1とは、Appleが開発したプロセッサーです。従来MacはIntel社のプロセッサーを採用していて、現在もIntelモデルも販売はされていますが、主力モデルは続々とM1に移り変わっています。</p>
+
+
+
+<p>M1の魅力は、CPUやGPUなどを統合した複合プロセッサで、メモリとも深く連動して動作するため、コンピューター全体として非常に効率よく動作し、動作速度が速くて消費電力が少ないのが魅力です。</p>
+
+
+
+<p>M1 Macになってから、外出先で充電をしなければならないという事態に遭遇することはほぼなく、休日に自宅で利用するときもほぼ1日中充電なしで利用する事ができるほど、バッテリーが長持ちするようになりました。</p>
+
+
+
+<p>発売当初は対応アプリが少ないとか、Parallels DesktopでWindowsを動作させると英語版しか動作しないなど、プロセッサーの変更に伴うアプリの対応状況で不便な点がありましたが、それも現在ではほとんど解消されていて、気にならなくなっています。</p>
+
+
+
+<p>M1プロセッサーはその後も、MacやUltraなど劇的に進化を遂げていて、次のM2モデルというものの登場も待たれるという事で、非常に楽しみな存在です。とはいえ、今からM1 Macを購入しても開発作業などであれば、数年単位で現役を張れるので、今から購入しても問題はないでしょう。</p>
+
+
+
+<h2>形はノート型がおすすめ</h2>
+
+
+
+<p>PCには現在、デスクトップ型とノート（ラップトップ型）、そしてタブレットにキーボードが付属した2 in 1といわれる形があります。</p>
+
+
+
+<p>私もこれまではタブレットとしても利用できる2 in 1である「Surface Pro」などを利用していたのですが、Macに移行するのに伴ってノート型に移行しています。実際、2 in 1とノートを比べた場合、やはりPCとしての使い勝手はノート型の方が高く、別途タブレットをサブマシンとして持ち歩く方が良いという判断になりました（タブレットについては後述）。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-40-1024x576.png" alt="" class="wp-image-21799" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-40-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-40-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-40-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-40-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-40.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>2 in 1の場合、タブレットとして使うときは良いのですが、キーボードを使いたいときに後ろにキックスタンドがせり出したりしてテーブルを余計に使ってしまったり、キーボードもペコペコして打ちにくい、膝の上などで操作しにくいなど、中途半端な存在でした。</p>
+
+
+
+<p>唯一、Surface Laptopなどのノート型でかつ、スクリーンがタッチできるタイプは非常に便利でしたが、これもWindows 11がその良さを台無しにしてしまっている感じで、現在はMacBook/Airがベストな選択だなと感じています。</p>
+
+
+
+<p>なお、デスクトップ型についてはゲームや動画編集などをしない限りは不要です。M1の場合、動画編集などもノート型でも十分な性能を持っています。</p>
+
+
+
+<h2>結論：MacBook Pro 14inch</h2>
+
+
+
+<p>ということで、結論としてはMacBook Proの14inchが現在のおすすめです。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-41-1024x576.png" alt="" class="wp-image-21800" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-41-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-41-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-41-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-41-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-41.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>M1 Macとしては他に、MacBook Airと、13inch/16inch MacBook Proという選択肢があります。16inchは大きすぎますし、Airや13inchは1世代前のモデルとなるため、これを狙うなら中古を探してみても良いかも知れません。</p>
+
+
+
+<p>新品で購入するなら14inch MacBook Proが一番バランスが取れていて、数年は現役で使えるのではないでしょうか。標準でも24万円弱となかなかの金額なため、カスタマイズは難しいかもしれませんが、そのままでも問題なく利用できます。欲をいえばメモリを32GBに、SSDストレージを1TBにしておくと良さそうで、後は予算に合わせてプロセッサーをパワーアップしていくとよいでしょう。</p>
+
+
+
+<h2>スマートフォンはMac大好きならiPhone、Google好きならAndroid</h2>
+
+
+
+<p>次にスマートフォンです。スマホは、筆者もiPhoneとAndroidをほとんど常に持ち歩いてしまっていて、優劣がつけがたい状況です。</p>
+
+
+
+<p>Macユーザーとしては、Macとの連携がしやすいiPhoneにも魅力がありますが、Googleの各サービスを利用しているユーザーとしてはAndroidも捨てがたいという印象です。いくつかそれぞれの特徴を紹介しましょう。</p>
+
+
+
+<h2>Face IDは相変わらず使いにくい</h2>
+
+
+
+<p>iPhoneの最大の欠点は認証方法がFace IDな点です。マスク時代においては、Face IDは非常に使いにくく、その後Apple Watchとの連携やOSのアップデートで、マスクでも認証が通るようにはなったものの、やっぱり使いにくいです。</p>
+
+
+
+<p>それに比べて、Androidの場合は指紋認証やパターン認証がなどがあるため、サッと使いたいときはやはり非常に便利。最近は、Paypayなどでバーコード決済をする事も多く、とにかく開きやすいというのは非常に重要なポイントです。</p>
+
+
+
+<h2>iCloudをどこまで利用するかがポイント</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-42-1024x576.png" alt="" class="wp-image-21801" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-42-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-42.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>iPhoneが優れている点としては、Macの各サービスと深く連携している点です。ノートアプリなども瞬時に同期されますし、近くにあれば通話をMacでうけたり、テザリングをワンタッチで行えるなど、スマホを意識しないで利用できます。</p>
+
+
+
+<p>ただし逆に、筆者のようにGmail、Googleカレンダーを利用して、ノートはNotion、ファイルはGoogle DriveやDropboxという使い方をすると、iCloudが活躍できる場はほとんどなく、iPhoneの良さを活かすことができません。このあたりも、Androidの方が使いやすいと感じる点です。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-44-1024x576.png" alt="" class="wp-image-21803" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-44-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-44-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-44-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-44-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-44.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なお、Android端末はピンキリがありますが、筆者はGoogle純正のPixelシリーズ一択です。最新の機能を余すことなく搭載していて、OSのアップデートもしばらく保証されているので、安心して使い続けることができます。</p>
+
+
+
+<h2>タブレットは、Androidタブレット</h2>
+
+
+
+<p>タブレットといえば、iPadといえるほどiPadの勢力は強く、逆にAndroidタブレットは一時期絶滅の危機といえるほど苦戦していました。</p>
+
+
+
+<p>ただその後、GoogleからChromeOSというGoogle独自のプラットフォームが登場し、これを搭載した「Chromebook」という種類のコンピューターが新しい勢力として登場しました。</p>
+
+
+
+<p>筆者も、Chromebookの端末を3つほど購入しましたが、正直現時点はかなり中途半端で、とても使いやすいとは言えず、今は倉庫の肥やしになっています。</p>
+
+
+
+<p>iPadについては、iPad Proの初代と、iPad miniを所有していますが、ここ最近Androidタブレットが改めて少し元気を取り戻してきたため、筆者もXiaomiのXiaomi Pad 5を購入しました。これが非常にできが良く、現状ではAndroidタブレット一択になりました。</p>
+
+
+
+<h3>Kindle書籍が直接購入できる</h3>
+
+
+
+<p>筆者の場合、タブレットの利用用途のかなりを占めるのが、電子書籍の読書です。しかし、iOSでは現在Kindleの書籍が直接購入できず、ブラウザーで購入してからKindleアプリで読むという2段階が必要です。</p>
+
+
+
+<p>これが非常に面倒で、読書はKindle FireというKindle専用端末を利用したりしていました。しかしそれもまた、普段持ち歩いていないなどで面倒になったりしていたのですが、Androidタブレットの場合はKindleから直接購入することができます。これが非常に便利。手放せません。</p>
+
+
+
+<h3>ペンで快適に描けるのがタブレットの魅力</h3>
+
+
+
+<p>タブレットで読書以外でやりたいことと言えば、ペンを使ってメモを取ったり図を描いたりするという用途です。iPadならこれについてはストレスがなかったのですが、Chromebookの場合はペンの精度やスクリーンの精度などで、満足で描ける端末がほとんどありませんでした。格安の端末はもちろん、10万を超える端末でもまったく快適ではありません。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-42-1024x576.png" alt="" class="wp-image-21801" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-42-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-42-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-42.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>その点、Xiaomi Pad 5のスクリーンは、5万円前後の端末とは思えない精度で、非常に快適に描くことができました。ペンは別売りで1万円程度しますが、筆者が購入したときはキャンペーンで無償で付属されてくるなど、至れり尽くせりでした。</p>
+
+
+
+<h3>iPadはデータの取り回しに難があり</h3>
+
+
+
+<p>筆者がiPadから離れてしまった原因の一つは、ファイルの取り回しが独特すぎる点でした。Dropboxなどからファイルを取りだして加工し、それをDropboxに保存したいといったときも、iPadの「ファイル」アプリからしか操作ができないとか、ファイルとして操作がしにくいなど、とにかく内部のしくみを隠すように作られているので、なかなか思うように使えませんでした。</p>
+
+
+
+<p>しっかりと学習すれば、もう少しスムーズに使えるかも知れませんが、先のKindleが買えないとストレスもあり、Androidタブレットに移ってしまいました。</p>
+
+
+
+<h2>結論：Mac + Androidスマホ + Androidタブレット</h2>
+
+
+
+<p>ということで筆者の結論としては、Macを中心にAndroidスマホとタブレットというのが今の所のベストです。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tomosta.jp/wp-content/uploads/2022/04/image-43-1024x576.png" alt="" class="wp-image-21802" srcset="https://tomosta.jp/wp-content/uploads/2022/04/image-43-1024x576.png 1024w, https://tomosta.jp/wp-content/uploads/2022/04/image-43-300x169.png 300w, https://tomosta.jp/wp-content/uploads/2022/04/image-43-768x432.png 768w, https://tomosta.jp/wp-content/uploads/2022/04/image-43-1536x864.png 1536w, https://tomosta.jp/wp-content/uploads/2022/04/image-43.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>iPhone / iPadは基本的な使い方には問題がないので、それだけ使っていると不満はないのですが、Androidのスマホやタブレットを使ってしまうと、デメリットが目立って「Androidの方が良いな」と感じてしまうことがあります。金額的な面も考えると、Androidの方が良さそうに感じます。</p>
+
+
+
+<p>また、2023年などになってどう変わっているか、改めて検討してみます。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tomosta.jp/2022/04/mac-android-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">21796</post-id>	</item>
+	</channel>
+</rss>
