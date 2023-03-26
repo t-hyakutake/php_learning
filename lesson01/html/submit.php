@@ -15,7 +15,8 @@
   <p>submitで送信された名前は
      <?php echo htmlspecialchars($_POST['my_name'], ENT_QUOTES ); ?> 
     <!-- []の中はテキストで入力されたinputタグの name""属性 で紐づける -->
-    <!-- htmlspecialchars( 受け取り , ENT_QUOTES) で囲むとscriptタグを文字列かできるので不正な操作を防げる $_REQUEST等の外部入力を表示させる時はこの処理はセキュリティ上必須 -->
+    <br>
+    htmlspecialchars( 受け取り , ENT_QUOTES) で囲むとscriptタグを文字列にできるので不正な操作を防げる $_REQUEST等の外部入力を表示させる時はこの処理はセキュリティ上必須
   </p>
 <?php
 } else {
@@ -65,12 +66,15 @@
     }
   ?>
 
-<p>cookieの値表示</p>
+  <br><br>
+  POSTを$_REQUESTで受け取ると、urlに追加でデータを改ざんできるので、POSTはPOSTで受けとる。<br>
+
+<h3>cookieの値表示</h3>
 変数の値: <?php echo $value; ?><br>
 cookieの値: <?php echo $_COOKIE['message']; ?>
 
   
-<p>sessionの値表示</p>
+<h3>sessionの値表示</h3>
 sessionの値: <?php echo $_SESSION['session_message']; ?>
 <br>
 <br>

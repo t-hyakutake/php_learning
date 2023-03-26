@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=, initial-scale=1.0">
-  <title>Document</title>
+  <title>PHP</title>
 </head>
 <body>
   <h2>PHPコンテンツ</h2>
@@ -27,7 +27,7 @@
   $today = new DateTime();
   $today -> setTimezone(new DateTimeZone('Asia/Tokyo'));
   echo '現在は' . $today -> format('G時 i分 s秒');
-  echo '<br>';
+  echo '<br>' . '\n';
   echo '変数';
   $sum = 500 + 500;
   echo '<br>';
@@ -103,24 +103,27 @@ for ($i = 0; $i < 8; $i++):
   echo $day . '<br>';
 endfor;
 echo '<br>';
+echo '<h3>配列</h3>';
 // 配列
 // 曜日を日本語でとる方法
 // 曜日表示はメソッドにないので配列を作る
 $week_name = ['日曜', '月曜', '火曜', '水曜', '木曜', '金曜', '土曜'];
-// echo $week_name[1]; // 月曜
+ echo '変数とインデックスで表示：' . $week_name[1] . '<br>'; // 月曜
 $week = date('w'); // date('w') は曜日をnumberで取得できる 0が日曜
-echo "今日は$week_name[$week]"; // wでとったnumberを配列のインデックに充てる
+echo "今日の曜日の表示方法　$week_name[$week]"; // wでとったnumberを配列のインデックに充てる
 
 // 連想配列
+echo '<h3>連想配列</h3>';
 $players_skill = [
   'Ootani' => '2刀流',
   'darubissyu' => 'pitch',
   '福本' => 'steal'
 ];
+echo 'key Ootani の値は ' . $players_skill['Ootani'];
 ?>
  <!-- htmlのdlタグと併せる -->
 <dl>
-<h4>htmlとPHPのくみあわせ</h4>
+<h4>htmlとPHPのくみあわせで連想配列を表示</h4>
   <?php  foreach ($players_skill as $player_name => $skills): ?>
     <!-- foreach (配列の関数 as key => 値) -->
     <dt>
@@ -142,7 +145,19 @@ $players_skill = [
    else: // :コロンを忘れずに
    echo '文字あり';
  endif;
+
 ?>
+<h4>date()とif文を使った自動の表記</h4>
+<?php
+date_default_timezone_set('Asia/Tokyo');
+  $time = date('G');
+ if ($time < 10): ?>
+  <P>閉店中</P>
+<?php else: ?>
+ <p>開店中</p>
+
+<?php endif; ?>
+
 <h3>ceil,floor,round</h3>
 <?php
 echo ceil(3.66) . '<br>'; // 切り上げ
@@ -152,11 +167,13 @@ echo round(3.66666, 1) . '<br>'; // 四捨五入 小数点1位
 echo round(3.66666, 3) . '<br>'; // 四捨五入 小数点2位
 ?>
 <h3>sprint</h3>
+numは桁数、 dは整数 sはstring spaceも生で出る<br>
+
 <?php
   $year = 2023;
   $month = 2;
   $day = 14;
-  $date = sprintf('%4d年%02d %02d', $year,$month, $day ); // %でnumをstringにしている
+  $date = sprintf('%04d年 %02d月 %02d日', $year,$month, $day ); // %でnumをstringにしている
   echo $date . '<br>';
   echo gettype($date);
 ?>
@@ -227,11 +244,12 @@ foreach ($xmlFile->channel->item as $item) {
   $json = json_encode($morning_json, JSON_UNESCAPED_UNICODE); //JASON=UNISCAPED_UNICODE は日本語文字表記のままにする
   echo $json;
 ?>
-<h3>formからの受け取り</h3>
 <p>json_decode() はJSON形式の文字列に変換</p>
 <?php
   file_put_contents('data/morning-json', $json); //作ったjsonをfileで作る
-?>
+  ?>
+
+  <h3>formからの受け取り</h3>
  <form action="html/submit.php" method="post" enctype="multipart/form-data">
   <!-- enctype="multipart/form-data"で画像をアップロードできるようにする。これがないとテキストしか送れない -->
   <!-- action属性は送信先のfile -->
@@ -306,7 +324,7 @@ foreach ($xmlFile->channel->item as $item) {
 </table>
 
   <h3>リダイレクト</h3>
-  <p>header();</p>
+  <p>header();ファンクションはリダイレクトもできるが本来は生のhttpヘッダを送信する</p>
   <p>exit();</p>
   <?php
   // header('Location: https://gotenbaoracle.com');
@@ -356,14 +374,15 @@ foreach ($xmlFile->channel->item as $item) {
 // }
 
 // 上記の関数の入ったPHPファイルを呼び出す
-require('intax.php');
+require('addtax.php');
 
 $price = 1400;
 $price_tax = intax($price);
 //関数の引数と一緒にしなくていい
-echo $price_tax;
+echo $price_tax . '<br>';
+
+
 ?>
+
 </body>
 </html>
-
-
